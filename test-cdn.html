@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test CDN Structure</title>
+</head>
+<body>
+    <h1>Testing CDN File Structure</h1>
+    <pre id="output"></pre>
+
+    <script>
+        const output = document.getElementById('output');
+
+        async function testUrls() {
+            const urls = [
+                // data.json 格式
+                'https://cdn.jsdelivr.net/gh/2426269/shinycolors-assets-cdn@0570c07/spine/櫻木真乃/【花風Smiley】櫻木真乃/data.json',
+                'https://cdn.jsdelivr.net/gh/2426269/shinycolors-assets-cdn@0570c07/spine/櫻木真乃/【花風Smiley】櫻木真乃/data.atlas',
+                'https://cdn.jsdelivr.net/gh/2426269/shinycolors-assets-cdn@0570c07/spine/櫻木真乃/【花風Smiley】櫻木真乃/data.png',
+
+                // 角色名格式
+                'https://cdn.jsdelivr.net/gh/2426269/shinycolors-assets-cdn@0570c07/spine/櫻木真乃/【花風Smiley】櫻木真乃/【花風Smiley】櫻木真乃.json',
+                'https://cdn.jsdelivr.net/gh/2426269/shinycolors-assets-cdn@0570c07/spine/櫻木真乃/【花風Smiley】櫻木真乃/【花風Smiley】櫻木真乃.atlas',
+                'https://cdn.jsdelivr.net/gh/2426269/shinycolors-assets-cdn@0570c07/spine/櫻木真乃/【花風Smiley】櫻木真乃/【花風Smiley】櫻木真乃.png',
+
+                // 偶像服版本
+                'https://cdn.jsdelivr.net/gh/2426269/shinycolors-assets-cdn@0570c07/spine/櫻木真乃/【花風Smiley】櫻木真乃 偶像服/data.json',
+                'https://cdn.jsdelivr.net/gh/2426269/shinycolors-assets-cdn@0570c07/spine/櫻木真乃/【花風Smiley】櫻木真乃 偶像服/【花風Smiley】櫻木真乃 偶像服.json',
+            ];
+
+            for (const url of urls) {
+                try {
+                    const response = await fetch(url);
+                    const status = response.ok ? '✅ OK' : '❌ ' + response.status;
+                    output.textContent += `${status} - ${url.split('/').slice(-2).join('/')}\n`;
+                } catch (error) {
+                    output.textContent += `❌ ERROR - ${url.split('/').slice(-2).join('/')} - ${error.message}\n`;
+                }
+            }
+        }
+
+        testUrls();
+    </script>
+</body>
+</html>

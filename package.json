@@ -1,0 +1,13 @@
+{
+  "name": "shinycolors-image-compressor",
+  "version": "1.0.0",
+  "description": "偶像大师闪耀色彩图片压缩工具",
+  "scripts": {
+    "compress": "node compress-images.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
+
+

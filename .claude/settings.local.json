@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(cp:*)",
+      "Bash(nul)",
+      "Bash(pnpm run build:*)",
+      "Bash(pnpm run:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(findstr:*)",
+      "Bash(powershell -Command \"(Invoke-WebRequest -Uri ''https://cdn.jsdelivr.net/gh/2426269/shinycolors-assets-cdn@0570c07/spine/櫻木真乃/【花風Smiley】櫻木真乃/data.json'' -Method Head -ErrorAction SilentlyContinue).StatusCode\")",
+      "Bash(powershell -Command \"(Invoke-WebRequest -Uri ''https://cdn.jsdelivr.net/gh/2426269/shinycolors-assets-cdn@0570c07/spine/櫻木真乃/【花風Smiley】櫻木真乃 偶像服/【花風Smiley】櫻木真乃 偶像服.json'' -Method Head -ErrorAction SilentlyContinue).StatusCode\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

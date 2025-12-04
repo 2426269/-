@@ -1,0 +1,199 @@
+================================================================
+    专辑封面闪烁问题 - 最终解决方案
+    日期: 2025-10-28
+    状态: ✅ 已解决
+================================================================
+
+一、问题现象
+----------------------------------------------------------------
+从有图片的歌曲切换到其他歌曲时：
+- 新封面短暂显示后又切回旧封面（闪烁）
+- 特别是切换到无音频的歌曲时，必定显示旧封面
+- Spread the Wings!! 和 FR@GMENT WING 可以正常切换（因为都有音频）
+- 其他有图片的歌曲会闪烁
+
+
+二、根本原因（经日志分析确定）
+----------------------------------------------------------------
+1. 用户点击 FUTURITY SMILE（无音频）
+   └─> loadSong 清空封面（currentCoverUrl = null）
+   └─> MusicPlayer.loadAndPlaySong 播放失败
+   └─> loadSong 保持封面为 null
+
+2. 定时器（每 100ms 运行）
+   └─> updatePlayerState() 被调用
+   └─> 读取 MusicPlayer.getState()
+   └─> 发现 MusicPlayer 的状态还停留在上一首歌（Spread the Wings!!）
+   └─> 检测到 coverUrl 不同：from null → to "Spread the Wings!!.jpg"
+   └─> 更新 currentCoverUrl = "Spread the Wings!!.jpg"
+   └─> ❌ 旧封面被覆盖回来了！
+
+3. 问题核心
+   - 定时器和 loadSong 争夺 currentCoverUrl 的控制权
+   - 播放失败时，MusicPlayer 状态未更新，但 Vue 组件想显示新歌
+   - 定时器周期性地把旧值写回，导致闪烁
+
+
+三、尝试的解决方案
+----------------------------------------------------------------
+【方案1】强制 re-render（失败）
+- 添加 :key="songs[currentSongIndex]?.id" 
+- 结果：无效，定时器仍会覆盖
+
+【方案2】防止 fallback（失败）
+- 修改 :src="currentCoverUrl || songs[newIndex].albumCover"
+- 结果：闪烁依旧，fallback 逻辑反而加剧问题
+
+【方案3】添加 isLoadingSong 标记（部分有效）
+- 切歌时设置标记，300ms 后解除
+- 定时器检查标记，标记期间不更新封面
+- 结果：延迟了问题，但未彻底解决
+
+【方案4】完全禁止定时器更新封面（✅ 最终方案）
+- 定时器只更新：播放进度、歌词、翻译状态
+- 封面完全由 loadSong 手动控制，不受定时器干扰
+- 结果：彻底解决，无闪烁
+
+
+四、最终实现代码
+----------------------------------------------------------------
+1. updatePlayerState（定时调用）
+   // 更新UI状态（定时调用）
+   const updatePlayerState = () => {
+     const state = MusicPlayer.getState();
+     const audio = state.audio;
+
+     // 更新播放进度
+     if (audio.duration && !isNaN(audio.duration)) {
+       currentProgress.value = audio.currentTime / audio.duration;
+     }
+
+     // 更新当前歌词
+     currentLyric.value = MusicPlayer.getCurrentLyric();
+
+     // 更新翻译显示状态
+     showTranslation.value = state.lyrics.showTranslation;
+
+     // 注意：封面完全由 loadSong 手动控制，定时器不再更新封面
+     // 这样可以彻底避免定时器覆盖封面的问题
+   };
+
+2. loadSong（手动切歌）
+   const loadSong = async (index: number) => {
+     // ...
+     
+     try {
+       // 先清空封面，避免显示旧图片
+       currentCoverUrl.value = null;
+       await nextTick();
+
+       // 播放歌曲
+       const success = await MusicPlayer.loadAndPlaySong(song);
+
+       if (success) {
+         // 播放成功后直接设置封面
+         // 封面完全由此处手动控制，定时器不再更新封面
+         currentCoverUrl.value = song.albumCover || null;
+       } else {
+         // 播放失败，显示占位图
+         currentCoverUrl.value = null;
+       }
+     } catch (e) {
+       console.error('加载歌曲失败:', e);
+       currentCoverUrl.value = null;
+     }
+   };
+
+
+五、额外优化：标记无音频歌曲（方案3）
+----------------------------------------------------------------
+为了避免用户点击无音频的歌曲，实现了以下功能：
+
+1. UI标记
+   - 显示 🔒 锁图标（代替播放图标）
+   - 标题后显示 "(未上传)" 灰色标签
+   - 整个歌曲项半透明灰色
+
+2. 交互禁用
+   - cursor: not-allowed
+   - 点击事件检查：@click="song.audioUrl ? selectSongById(song.id) : null"
+   - 悬停无粉色高亮效果
+
+3. 样式代码
+   &.disabled {
+     opacity: 0.4;
+     cursor: not-allowed;
+     background: rgba(128, 128, 128, 0.1);
+     
+     &:hover {
+       background: rgba(128, 128, 128, 0.15);
+       border-color: rgba(128, 128, 128, 0.3);
+       transform: none;
+     }
+     
+     .song-item-icon i {
+       color: rgba(255, 255, 255, 0.3);
+     }
+   }
+
+
+六、技术要点
+----------------------------------------------------------------
+1. Vue 响应式数据的更新时序
+   - nextTick() 确保 DOM 更新后再执行
+   - setInterval 的回调可能与组件更新冲突
+
+2. 状态管理的分离
+   - MusicPlayer（底层音频逻辑）状态
+   - Vue 组件（UI展示）状态
+   - 两者不总是同步，需要明确谁是 source of truth
+
+3. 性能优化
+   - 定时器只更新必要的状态
+   - 封面由用户操作触发，不频繁更新
+
+4. 用户体验
+   - 明确标记不可用的内容
+   - 禁用交互，避免无效操作
+
+
+七、测试结果
+----------------------------------------------------------------
+✅ Spread the Wings!! → FR@GMENT WING（都有图片）：正常切换
+✅ FR@GMENT WING → FUTURITY SMILE（无音频）：显示占位图，不闪烁
+✅ FUTURITY SMILE 显示为灰色，带 "(未上传)" 标签
+✅ 点击无音频歌曲无效果
+✅ 所有日志正常，无异常覆盖
+
+
+八、后续工作
+----------------------------------------------------------------
+1. 上传更多音频文件到 GitHub Releases
+   - 个人曲（28首）
+   - 组合曲
+   - 剩余全体曲
+
+2. 收集并上传个人曲和组合曲的专辑封面
+
+3. 考虑是否需要添加音频缓存机制
+
+4. 优化大文件加载体验（进度条？）
+
+
+================================================================
+                        问题已完全解决
+================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+

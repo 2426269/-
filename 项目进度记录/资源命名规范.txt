@@ -1,0 +1,435 @@
+================================================================================
+                  偶像大师闪耀色彩 - 资源命名规范
+================================================================================
+
+版本：v1.0
+创建日期：2025-10-28
+最后更新：2025-10-28
+
+本文档制定了项目中所有资源（图片、音频、数据）的统一命名规范，
+确保前端代码与实际文件严格匹配，避免出现URL不匹配导致的加载失败。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. 音频文件命名规范 (GitHub Releases)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【基本原则】
+-----------
+✅ 使用英文字母、数字、点号(.)、连字符(-)、下划线(_)
+✅ 日文歌曲名使用罗马音或直接使用日文（需URL编码安全）
+✅ 不使用空格（用点号或连字符替代）
+✅ 不使用特殊字符：!! ? @ # $ % & * () [] {}
+✅ 扩展名：.flac（无损）或 .mp3（有损）
+
+【命名模式】
+-----------
+
+模式1：英文歌曲名
+  格式：SongName.flac
+  示例：Spread.the.Wings.flac
+       Ambitious.Eve.flac
+       Multicolored.Sky.flac
+
+模式2：日文歌曲名（保留日文）
+  格式：日文名.flac
+  示例：ありったけの輝きで.flac
+       夢見鳥.flac
+       雪・月・風・花.flac
+  注意：确保文件系统支持UTF-8编码
+
+模式3：混合名称简化
+  格式：简化版.flac
+  示例：Shiny.Days.flac（原名：いつか Shiny Days）
+       （去除日文前缀，保留英文主体）
+
+【全体曲示例】
+-------------
+| 原始歌曲名 | GitHub Releases文件名 | 说明 |
+|-----------|---------------------|------|
+| Spread the Wings!! | Spread.the.Wings.flac | 空格→点号，去除!! |
+| Multicolored Sky | Multicolored.Sky.flac | 空格→点号 |
+| Ambitious Eve | Ambitious.Eve.flac | 空格→点号 |
+| いつか Shiny Days | Shiny.Days.flac | 简化为英文部分 |
+| FUTURITY SMILE | FUTURITY.SMILE.flac | 空格→点号 |
+| SNOW FLAKES MEMORIES | SNOW.FLAKES.MEMORIES.flac | 空格→点号 |
+
+【上传建议】
+-----------
+1. 批量上传前先重命名所有文件
+2. 使用PowerShell脚本批量重命名：
+   ```powershell
+   Get-ChildItem "*.flac" | ForEach-Object {
+     $newName = $_.Name -replace ' ', '.'
+     $newName = $newName -replace '[!?@#$%&*\[\]{}()]', ''
+     Rename-Item $_ $newName
+   }
+   ```
+3. 上传后在GitHub Releases页面验证文件名
+4. 更新songs.ts前确认文件名完全匹配
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. 专辑图片命名规范 (Git仓库 + jsDelivr CDN)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【基本原则】
+-----------
+✅ 使用完整的专辑名称
+✅ 允许使用空格、特殊字符（CDN会自动编码）
+✅ 保持与官方专辑名一致
+✅ 扩展名：.jpg 或 .png
+
+【目录结构】
+-----------
+歌曲图片/
+├── 个人曲/
+│   ├── 樱木真乃/
+│   │   ├── COLORFUL FE@THERS -Stella-.jpg
+│   │   └── ...
+│   ├── 芹泽朝日/
+│   └── ...
+├── 组合曲/
+│   ├── Illumination STARS/
+│   │   ├── BRILLI@NT WING 02 ヒカリのdestination.jpg
+│   │   └── ...
+│   └── ...
+└── 全体曲/
+    ├── BRILLI@NT WING 01 Spread the Wings!!.jpg
+    ├── FR@GMENT WING 01.jpg
+    ├── FUTURITY SMILE.jpg
+    └── ...
+
+【命名模式】
+-----------
+
+个人曲：
+  格式：{专辑系列名}.jpg
+  示例：COLORFUL FE@THERS -Stella-.jpg
+       COLORFUL FE@THERS -Luna-.jpg
+       COLORFUL FE@THERS -Sol-.jpg
+       COLORFUL FE@THERS -SHHis-.jpg
+
+组合曲：
+  格式：{专辑系列名} {编号} {主打歌名}.jpg
+  示例：BRILLI@NT WING 02 ヒカリのdestination.jpg
+       FR@GMENT WING 02.jpg
+       GR@DATE WING 03.jpg
+
+全体曲：
+  格式：{专辑系列名} {编号} {主打歌名}.jpg 或 {专辑名}.jpg
+  示例：BRILLI@NT WING 01 Spread the Wings!!.jpg
+       FR@GMENT WING 01.jpg
+       FUTURITY SMILE.jpg
+       SE@SONAL WINTER.jpg
+
+【专辑名对照表（全体曲）】
+-------------------------
+| 专辑名 | 图片文件名 | 包含歌曲 |
+|-------|-----------|---------|
+| BRILLI@NT WING 01 | BRILLI@NT WING 01 Spread the Wings!!.jpg | Spread the Wings!!, Multicolored Sky |
+| FR@GMENT WING 01 | FR@GMENT WING 01.jpg | Ambitious Eve, いつか Shiny Days |
+| FUTURITY SMILE | FUTURITY SMILE.jpg | FUTURITY SMILE, Spread the Wings!! -19 colors- |
+| SE@SONAL WINTER | SE@SONAL WINTER.jpg | SNOW FLAKES MEMORIES, Christmas Eve |
+| GR@DATE WING 01 | GR@DATE WING 01.jpg | True Horizon, 正攻法讃歌 |
+
+【注意事项】
+-----------
+⚠️ 同一专辑的多首歌曲可以共用同一张封面图
+⚠️ 确保角色名文件夹与songs.ts中的artist字段对应
+⚠️ CDN会自动将空格编码为%20，这是正常的
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. CSV数据命名规范
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【字段说明】
+-----------
+
+个人曲CSV（个人曲列表_声优版.csv）:
+| 字段名 | 说明 | 示例 | 对应songs.ts字段 |
+|--------|------|------|-----------------|
+| 歌曲ID | 唯一标识 | 1 | id |
+| 歌曲名称 | 完整日文/英文名 | ありったけの輝きで | title |
+| 歌手演唱者 | **声优名** | 関根瞳 | voiceActor |
+| 角色 | **角色名** | 櫻木真乃 | artist |
+| 专辑名称 | 完整专辑名 | COLORFUL FE@THERS -Stella- | album |
+| 发行日期 | YYYY/M/D | 2021/1/20 | releaseDate |
+| 歌曲类型 | 个人曲/组合曲/全体曲 | 个人曲 | type |
+| 作词 | 作词者名 | こだまさおり | lyrics |
+| 作曲 | 作曲者名 | 羊 | music |
+| 编曲 | 编曲者名（已废弃） | - | arrangement (删除) |
+| 专辑封面URL | CDN路径（可选） | - | albumCover（代码生成） |
+| 备注 | 额外说明（可选） | - | notes |
+
+组合曲CSV（偶像大师闪耀色彩歌曲全体曲加组合曲.csv）:
+| 字段名 | 说明 | 对应songs.ts字段 |
+|--------|------|-----------------|
+| 歌曲ID | 唯一标识 | id |
+| 歌曲名称 | 完整名称 | title |
+| 歌手演唱者 | 组合名或シャイニーカラーズ | artist |
+| 所属组合 | 组合名或全体曲 | unit |
+| 专辑名称 | 完整专辑名 | album |
+| 发行日期 | YYYY/M/D | releaseDate |
+| 歌曲类型 | 组合曲/全体曲 | type |
+| 作词 | 作词者名 | lyrics |
+| 作曲 | 作曲者名 | music |
+| 编曲 | 编曲者名（已废弃） | arrangement (删除) |
+| 本地音频URL | 保留字段（未使用） | - |
+| 专辑封面URL | CDN路径（可选） | albumCover（代码生成） |
+| 备注 | 额外说明 | notes |
+
+【注意事项】
+-----------
+⚠️ "歌手演唱者"字段含义变更：
+   - 个人曲：声优名（如：関根瞳）
+   - 组合曲：组合名（如：Illumination STARS）
+   - 全体曲：シャイニーカラーズ
+
+⚠️ 新增"角色"字段：
+   - 仅用于个人曲
+   - 对应songs.ts的artist字段
+
+⚠️ 废弃"编曲"字段：
+   - 大部分歌曲无编曲信息
+   - 前端不再显示
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. songs.ts 数据结构规范
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【Song接口】
+-----------
+```typescript
+export interface Song {
+  id: number;              // 唯一ID
+  title: string;           // 歌曲名（日文/英文）
+  artist: string;          // 角色名（个人曲）或组合名（组合曲/全体曲）
+  voiceActor?: string;     // 声优名（仅个人曲）
+  album?: string;          // 专辑名
+  releaseDate?: string;    // 发行日期 YYYY/M/D
+  type?: string;           // 个人曲/组合曲/全体曲
+  lyrics?: string;         // 作词
+  music?: string;          // 作曲
+  arrangement?: string;    // 编曲（已废弃，待删除）
+  audioUrl?: string;       // 音频文件URL（GitHub Releases）
+  albumCover?: string;     // 专辑封面URL（jsDelivr CDN）
+  unit?: string;           // 所属组合
+  notes?: string;          // 备注
+}
+```
+
+【字段填写规则】
+---------------
+
+个人曲：
+```typescript
+{
+  id: 1,
+  title: 'ありったけの輝きで',
+  artist: '櫻木真乃',                    // 角色名
+  voiceActor: '関根瞳',                 // 声优名（新增）
+  unit: 'Illumination STARS',
+  album: 'COLORFUL FE@THERS -Stella-',
+  releaseDate: '2021/1/20',
+  type: '个人曲',
+  lyrics: 'こだまさおり',
+  music: '羊',
+  // arrangement: '...',                // 删除此字段
+  audioUrl: `${CDN_BASE}/歌曲/个人曲/樱木真乃/ありったけの輝きで.flac`,
+  albumCover: `${CDN_BASE}/歌曲图片/个人曲/樱木真乃/COLORFUL FE@THERS -Stella-.jpg`,
+}
+```
+
+组合曲：
+```typescript
+{
+  id: 29,
+  title: 'ヒカリのdestination',
+  artist: 'Illumination STARS',          // 组合名
+  // voiceActor: undefined,              // 组合曲不填
+  unit: 'Illumination STARS',
+  album: 'BRILLI@NT WING 02 ヒカリのdestination',
+  releaseDate: '2018/7/4',
+  type: '组合曲',
+  lyrics: '中村彼方',
+  music: '中野領太',
+  // arrangement: '...',                 // 删除此字段
+  audioUrl: `${CDN_BASE}/歌曲/组合曲/Illumination STARS/ヒカリのdestination.flac`,
+  albumCover: `${CDN_BASE}/歌曲图片/组合曲/Illumination STARS/BRILLI@NT WING 02 ヒカリのdestination.jpg`,
+}
+```
+
+全体曲：
+```typescript
+{
+  id: 111,
+  title: 'Spread the Wings!!',
+  artist: 'シャイニーカラーズ',          // 全体
+  // voiceActor: undefined,              // 全体曲不填
+  unit: '全体曲',
+  album: 'BRILLI@NT WING 01 Spread the Wings!!',
+  releaseDate: '2018/6/6',
+  type: '全体曲',
+  lyrics: 'こだまさおり',
+  music: '山口朗彦',
+  // arrangement: '山口朗彦',           // 删除此字段
+  audioUrl: `${AUDIO_BASE}/Spread.the.Wings.flac`,  // 使用 AUDIO_BASE（Releases）
+  albumCover: `${CDN_BASE}/歌曲图片/全体曲/BRILLI@NT WING 01 Spread the Wings!!.jpg`,
+  notes: '第一年度16人全体曲',
+}
+```
+
+【路径常量】
+-----------
+```typescript
+// CDN基础路径（图片、小文件）
+const CDN_BASE = 'https://testingcf.jsdelivr.net/gh/2426269/shinycolors-assets@main';
+
+// Releases基础路径（音频文件）
+const AUDIO_BASE = 'https://github.com/2426269/shinycolors-assets/releases/download/music-v1.0';
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. 前端显示规范
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【歌曲信息显示顺序】
+-------------------
+
+个人曲：
+┌─────────────────────┐
+│ ♪ ありったけの輝きで  │
+│                      │
+│ 角色：櫻木真乃       │  ← artist
+│ 演唱：関根瞳         │  ← voiceActor（新增）
+│ 作词：こだまさおり   │  ← lyrics
+│ 作曲：羊             │  ← music
+│ 收录：COLORFUL FE@THERS -Stella- │  ← album
+│                      │
+│ 发行日期：2021/1/20  │  ← releaseDate
+└─────────────────────┘
+
+组合曲 / 全体曲：
+┌─────────────────────┐
+│ ♪ Spread the Wings!! │
+│                      │
+│ 演唱：シャイニーカラーズ │  ← artist
+│ 作词：こだまさおり   │  ← lyrics
+│ 作曲：山口朗彦       │  ← music
+│ 收录：BRILLI@NT WING 01 Spread the Wings!! │  ← album
+│                      │
+│ 发行日期：2018/6/6   │  ← releaseDate
+│ 备注：第一年度16人全体曲 │  ← notes（如果有）
+└─────────────────────┘
+
+【字段显示规则】
+---------------
+✅ 显示字段：
+   - 个人曲：角色、演唱（声优）、作词、作曲、收录、发行日期
+   - 组合曲/全体曲：演唱、作词、作曲、收录、发行日期、备注
+
+❌ 不再显示：
+   - 编曲（arrangement）- 已删除
+
+【组件代码示例】
+---------------
+```vue
+<template>
+  <div class="song-info">
+    <h3>{{ currentSong.title }}</h3>
+    
+    <!-- 个人曲显示角色和声优 -->
+    <div v-if="currentSong.type === '个人曲'">
+      <p><strong>角色：</strong>{{ currentSong.artist }}</p>
+      <p v-if="currentSong.voiceActor"><strong>演唱：</strong>{{ currentSong.voiceActor }}</p>
+    </div>
+    
+    <!-- 组合曲/全体曲显示组合名 -->
+    <div v-else>
+      <p><strong>演唱：</strong>{{ currentSong.artist }}</p>
+    </div>
+    
+    <!-- 通用信息 -->
+    <p v-if="currentSong.lyrics"><strong>作词：</strong>{{ currentSong.lyrics }}</p>
+    <p v-if="currentSong.music"><strong>作曲：</strong>{{ currentSong.music }}</p>
+    <p v-if="currentSong.album"><strong>收录：</strong>{{ currentSong.album }}</p>
+    <p v-if="currentSong.releaseDate"><strong>发行日期：</strong>{{ currentSong.releaseDate }}</p>
+    <p v-if="currentSong.notes"><strong>备注：</strong>{{ currentSong.notes }}</p>
+  </div>
+</template>
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. 工作流程建议
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【资源收集流程】
+---------------
+
+1. 下载歌曲音频文件
+   ↓
+2. 按照"音频文件命名规范"重命名
+   （使用点号替代空格，去除特殊字符）
+   ↓
+3. 上传到 GitHub Releases
+   （网页手动上传，不要用git push）
+   ↓
+4. 验证文件URL可访问性
+   ↓
+5. 收集专辑封面图片
+   ↓
+6. 按照"专辑图片命名规范"组织目录
+   （保持原始专辑名，允许空格）
+   ↓
+7. 上传到 Git 仓库并推送
+   ↓
+8. 等待 jsDelivr CDN 同步（5-10分钟）
+   ↓
+9. 更新 CSV 数据
+   （填写角色、声优、作词、作曲等信息）
+   ↓
+10. 根据 CSV 更新 songs.ts
+   ↓
+11. 本地测试验证
+   ↓
+12. 构建并部署
+
+【常见问题检查清单】
+-------------------
+
+□ 音频文件名是否符合规范？（无空格、无特殊字符）
+□ 专辑图片路径是否正确？（检查角色名文件夹）
+□ songs.ts 中的 audioUrl 是否使用 AUDIO_BASE？
+□ songs.ts 中的 albumCover 是否使用 CDN_BASE？
+□ 个人曲是否添加了 voiceActor 字段？
+□ 是否删除了 arrangement 字段？
+□ CSV 中的"歌手演唱者"是否填写为声优名？
+□ 前端是否正确显示"角色"和"演唱"？
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. 版本历史
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+v1.0 (2025-10-28)
+-----------------
+- 初始版本
+- 制定音频文件命名规范（点号分隔，无特殊字符）
+- 制定专辑图片命名规范（保持官方名称）
+- 更新 CSV 字段说明（声优、角色分离）
+- 废弃 arrangement 字段
+- 新增 voiceActor 字段（个人曲）
+- 更新前端显示逻辑（角色+演唱）
+
+未来计划：
+- 添加角色图片命名规范
+- 添加卡牌图片命名规范
+- 添加背景图片命名规范
+
+================================================================================
+                            文档结束
+================================================================================
+
+维护者：Cursor AI Assistant
+联系方式：项目GitHub Issues
+最后更新：2025-10-28
+
+

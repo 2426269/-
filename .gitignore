@@ -1,0 +1,29 @@
+# 依赖目录
+node_modules/
+
+# 大型资源文件（超过 GitHub 限制）
+*.har
+spine_resources.har
+
+# 图片资源目录（太大，需要单独管理）
+闪耀色彩图片资源/
+闪耀色彩图片资源-压缩版/
+闪耀色彩图片-最终版/
+spine资源/
+
+# 备份文件
+*.backup.json
+*.backup-*.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 临时文件
+nul

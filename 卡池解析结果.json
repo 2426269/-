@@ -1,0 +1,703 @@
+{
+  "pickup": {
+    "theme": "【絵空靴】",
+    "character": "杜野 凛世"
+  },
+  "ur": [
+    {
+      "theme": "【誘爆ハートビート】",
+      "character": "黛 冬優子"
+    },
+    {
+      "theme": "【アマテラス】",
+      "character": "樋口 円香"
+    }
+  ],
+  "ssr": [
+    {
+      "theme": "【ほわっとスマイル】",
+      "character": "櫻木 真乃"
+    },
+    {
+      "theme": "【はじけてスマイル】",
+      "character": "櫻木 真乃"
+    },
+    {
+      "theme": "【ソラを跳ねね】",
+      "character": "櫻木 真乃"
+    },
+    {
+      "theme": "【ひとつ、はたたく】",
+      "character": "櫻木 真乃"
+    },
+    {
+      "theme": "【きみと巡り行く】",
+      "character": "櫻木 真乃"
+    },
+    {
+      "theme": "【柔らかな微笑み】",
+      "character": "風野 灯織"
+    },
+    {
+      "theme": "【淡雪の戯れ】",
+      "character": "風野 灯織"
+    },
+    {
+      "theme": "【清閑に息をひそめて】",
+      "character": "風野 灯織"
+    },
+    {
+      "theme": "【黒百合前で待ち合わせ】",
+      "character": "風野 灯織"
+    },
+    {
+      "theme": "【洸】",
+      "character": "風野 灯織"
+    },
+    {
+      "theme": "【キミと今旅立つ】",
+      "character": "風野 灯織"
+    },
+    {
+      "theme": "【金色の元気いっぱいガール】",
+      "character": "八宮 めぐる"
+    },
+    {
+      "theme": "【シュカのまにまに】",
+      "character": "八宮 めぐる"
+    },
+    {
+      "theme": "【日々を紡ぐインヴェルノ】",
+      "character": "八宮 めぐる"
+    },
+    {
+      "theme": "【たまゆらフレーミング】",
+      "character": "八宮 めぐる"
+    },
+    {
+      "theme": "【こころレイヤリング】",
+      "character": "八宮 めぐる"
+    },
+    {
+      "theme": "【ばりうまかブルース】",
+      "character": "月岡 恋鐘"
+    },
+    {
+      "theme": "【風吹く丘にはよ来んね】",
+      "character": "月岡 恋鐘"
+    },
+    {
+      "theme": "【うちのリボンは恋結び】",
+      "character": "月岡 恋鐘"
+    },
+    {
+      "theme": "【あなたと、月の満ちる頃】",
+      "character": "月岡 恋鐘"
+    },
+    {
+      "theme": "【よか匂いのする陽気やけん】",
+      "character": "月岡 恋鐘"
+    },
+    {
+      "theme": "【純雪エモーショナル】",
+      "character": "月岡 恋鐘"
+    },
+    {
+      "theme": "【トリッキーナイト】",
+      "character": "田中 摩美々"
+    },
+    {
+      "theme": "【魔的・アンチテーゼ】",
+      "character": "田中 摩美々"
+    },
+    {
+      "theme": "【真・TRAVELER】",
+      "character": "田中 摩美々"
+    },
+    {
+      "theme": "【アバウト・ナイト・ライト】",
+      "character": "田中 摩美々"
+    },
+    {
+      "theme": "【リバーシブル・トースト】",
+      "character": "田中 摩美々"
+    },
+    {
+      "theme": "【まみみスイッチ】",
+      "character": "田中 摩美々"
+    },
+    {
+      "theme": "【紺碧のボーダーライン】",
+      "character": "白瀬 咲耶"
+    },
+    {
+      "theme": "【幸福のリズム】",
+      "character": "白瀬 咲耶"
+    },
+    {
+      "theme": "【乙女と交わすTrick】",
+      "character": "白瀬 咲耶"
+    },
+    {
+      "theme": "【渦と淵】",
+      "character": "白瀬 咲耶"
+    },
+    {
+      "theme": "【私をときめかせて】",
+      "character": "白瀬 咲耶"
+    },
+    {
+      "theme": "【落ちる音がする】",
+      "character": "白瀬 咲耶"
+    },
+    {
+      "theme": "【お試し/みつゴコロ】",
+      "character": "三峰 結華"
+    },
+    {
+      "theme": "【それなら目をつぶりましょう】",
+      "character": "三峰 結華"
+    },
+    {
+      "theme": "【雨に祝福】",
+      "character": "三峰 結華"
+    },
+    {
+      "theme": "【♡コメディ】",
+      "character": "三峰 結華"
+    },
+    {
+      "theme": "【kaleidoscope-pinball】",
+      "character": "三峰 結華"
+    },
+    {
+      "theme": "【ノー・ライフ】",
+      "character": "三峰 結華"
+    },
+    {
+      "theme": "【霧・音・燦・燦】",
+      "character": "幽谷 霧子"
+    },
+    {
+      "theme": "【夕・音・鳴・鳴】",
+      "character": "幽谷 霧子"
+    },
+    {
+      "theme": "【菜・菜・輪・舞】",
+      "character": "幽谷 霧子"
+    },
+    {
+      "theme": "【かぜかんむりのこどもたち】",
+      "character": "幽谷 霧子"
+    },
+    {
+      "theme": "【窓・送・巡・歌】",
+      "character": "幽谷 霧子"
+    },
+    {
+      "theme": "【白・架・祝・幻】",
+      "character": "幽谷 霧子"
+    },
+    {
+      "theme": "【第2形態アーマードタイプ】",
+      "character": "小宮 果穂"
+    },
+    {
+      "theme": "【新装備・バブルバスター！】",
+      "character": "小宮 果穂"
+    },
+    {
+      "theme": "【潮騒のシーショア】",
+      "character": "小宮 果穂"
+    },
+    {
+      "theme": "【フルスロットルエイジ！】",
+      "character": "小宮 果穂"
+    },
+    {
+      "theme": "【スノードーム・シンドローム】",
+      "character": "小宮 果穂"
+    },
+    {
+      "theme": "【両手にLUCK！】",
+      "character": "小宮 果穂"
+    },
+    {
+      "theme": "【ちょこ色×きらきらロマン】",
+      "character": "園田 智代子"
+    },
+    {
+      "theme": "【あそ→と♡ちよこれいと】",
+      "character": "園田 智代子"
+    },
+    {
+      "theme": "【You're My Dream】",
+      "character": "園田 智代子"
+    },
+    {
+      "theme": "【砂糖づけ・ビターエンド】",
+      "character": "園田 智代子"
+    },
+    {
+      "theme": "【うつくしいあした】",
+      "character": "園田 智代子"
+    },
+    {
+      "theme": "【Kn☆cking.Kn☆cking.】",
+      "character": "園田 智代子"
+    },
+    {
+      "theme": "【ラムネ色の覚悟】",
+      "character": "西城 樹里"
+    },
+    {
+      "theme": "【曲がり角のランウェイ】",
+      "character": "西城 樹里"
+    },
+    {
+      "theme": "【秋陽のスケッチ】",
+      "character": "西城 樹里"
+    },
+    {
+      "theme": "【I・OWE・U】",
+      "character": "西城 樹里"
+    },
+    {
+      "theme": "【花染む街で、君と】",
+      "character": "西城 樹里"
+    },
+    {
+      "theme": "【杜野凛世の印象派】",
+      "character": "杜野 凛世"
+    },
+    {
+      "theme": "【凛世花伝】",
+      "character": "杜野 凛世"
+    },
+    {
+      "theme": "【水色感情】",
+      "character": "杜野 凛世"
+    },
+    {
+      "theme": "【ロー・ポジション】",
+      "character": "杜野 凛世"
+    },
+    {
+      "theme": "【硝子少女】",
+      "character": "杜野 凛世"
+    },
+    {
+      "theme": "【片恋はあと】",
+      "character": "杜野 凛世"
+    },
+    {
+      "theme": "【アルティメットマーメイド】",
+      "character": "有栖川 夏葉"
+    },
+    {
+      "theme": "【メイドインナツハ】",
+      "character": "有栖川 夏葉"
+    },
+    {
+      "theme": "【♡AKQJ10】",
+      "character": "有栖川 夏葉"
+    },
+    {
+      "theme": "【Fall】",
+      "character": "有栖川 夏葉"
+    },
+    {
+      "theme": "【Birdy Buddy】",
+      "character": "有栖川 夏葉"
+    },
+    {
+      "theme": "【スタンバイオッケー】",
+      "character": "大崎 甘奈"
+    },
+    {
+      "theme": "【ゆらゆらアクアリウム】",
+      "character": "大崎 甘奈"
+    },
+    {
+      "theme": "【叶えて☆ゴールドフィッシュ】",
+      "character": "大崎 甘奈"
+    },
+    {
+      "theme": "【longing】",
+      "character": "大崎 甘奈"
+    },
+    {
+      "theme": "【すれちがいシアター】",
+      "character": "大崎 甘奈"
+    },
+    {
+      "theme": "【事務所。静寂。大輪の華】",
+      "character": "大崎 甜花"
+    },
+    {
+      "theme": "【I♡DOLL】",
+      "character": "大崎 甜花"
+    },
+    {
+      "theme": "【BON・BON・DAY！】",
+      "character": "大崎 甜花"
+    },
+    {
+      "theme": "【バス・タイムの気分で】",
+      "character": "大崎 甜花"
+    },
+    {
+      "theme": "【甜der Dream Show】",
+      "character": "大崎 甜花"
+    },
+    {
+      "theme": "【マイ・ピュア・ロマンス】",
+      "character": "桑山 千雪"
+    },
+    {
+      "theme": "【シークレット・ヒロイン】",
+      "character": "桑山 千雪"
+    },
+    {
+      "theme": "【はるかぜまち、1番地】",
+      "character": "桑山 千雪"
+    },
+    {
+      "theme": "【つよがりのためのララバイ】",
+      "character": "桑山 千雪"
+    },
+    {
+      "theme": "【剥がされて、虚ろ】",
+      "character": "桑山 千雪"
+    },
+    {
+      "theme": "【ジャンプ！スタッグ！！！】",
+      "character": "芹沢 あさひ"
+    },
+    {
+      "theme": "【不機嫌なテーマパーク】",
+      "character": "芹沢 あさひ"
+    },
+    {
+      "theme": "【光は光へ】",
+      "character": "芹沢 あさひ"
+    },
+    {
+      "theme": "【ムーンライト・ガーデン】",
+      "character": "芹沢 あさひ"
+    },
+    {
+      "theme": "【オ♡フ♡レ♡コ】",
+      "character": "黛 冬優子"
+    },
+    {
+      "theme": "【starring F】",
+      "character": "黛 冬優子"
+    },
+    {
+      "theme": "【ノンセンス・プロンプ】",
+      "character": "黛 冬優子"
+    },
+    {
+      "theme": "【ア・冬優子イズム】",
+      "character": "黛 冬優子"
+    },
+    {
+      "theme": "【ちょっとあげる～】",
+      "character": "和泉 愛依"
+    },
+    {
+      "theme": "【メイ・ビー】",
+      "character": "和泉 愛依"
+    },
+    {
+      "theme": "【今のうちは走らない】",
+      "character": "和泉 愛依"
+    },
+    {
+      "theme": "【うちと幸せ】",
+      "character": "和泉 愛依"
+    },
+    {
+      "theme": "【あたし・マスト】",
+      "character": "和泉 愛依"
+    },
+    {
+      "theme": "【10個、光】",
+      "character": "浅倉 透"
+    },
+    {
+      "theme": "【夜はなにいろ】",
+      "character": "浅倉 透"
+    },
+    {
+      "theme": "【雪あたりの季節】",
+      "character": "浅倉 透"
+    },
+    {
+      "theme": "【カラカラカラ】",
+      "character": "樋口 円香"
+    },
+    {
+      "theme": "【オイサラバエル】",
+      "character": "樋口 円香"
+    },
+    {
+      "theme": "【フリークス・アリー】",
+      "character": "樋口 円香"
+    },
+    {
+      "theme": "【ポシェットの中には】",
+      "character": "福丸 小糸"
+    },
+    {
+      "theme": "【てのひらの答え】",
+      "character": "福丸 小糸"
+    },
+    {
+      "theme": "【なつやすみ学校】",
+      "character": "福丸 小糸"
+    },
+    {
+      "theme": "【恋をあげて】",
+      "character": "福丸 小糸"
+    },
+    {
+      "theme": "【HAPPY-!NG】",
+      "character": "市川 雛菜"
+    },
+    {
+      "theme": "【♡LOG】",
+      "character": "市川 雛菜"
+    },
+    {
+      "theme": "【S!GNATURE】",
+      "character": "市川 雛菜"
+    },
+    {
+      "theme": "【Keep→it up♡】",
+      "character": "市川 雛菜"
+    },
+    {
+      "theme": "【♡まっしろはムウサギ♡】",
+      "character": "七草 にちか"
+    },
+    {
+      "theme": "【夜よこノ窓は塗らないデ】",
+      "character": "七草 にちか"
+    },
+    {
+      "theme": "【伝えて niiid U】",
+      "character": "七草 にちか"
+    },
+    {
+      "theme": "【受けトルの sun Q】",
+      "character": "七草 にちか"
+    },
+    {
+      "theme": "【ROUNDLY】",
+      "character": "緋田 美琴"
+    },
+    {
+      "theme": "【CHILLY】",
+      "character": "緋田 美琴"
+    },
+    {
+      "theme": "【broken shout】",
+      "character": "斑鳩 ルカ"
+    },
+    {
+      "theme": "【Eyes On You】",
+      "character": "鈴木 羽那"
+    },
+    {
+      "theme": "【Hopeland】",
+      "character": "郁田 はるき"
+    }
+  ],
+  "sr": [
+    {
+      "theme": "【ぐうぜんBOOKS】",
+      "character": "櫻木 真乃"
+    },
+    {
+      "theme": "【花結びゆくゆく】",
+      "character": "櫻木 真乃"
+    },
+    {
+      "theme": "【手作りの心遣い】",
+      "character": "風野 灯織"
+    },
+    {
+      "theme": "【落下予測地点】",
+      "character": "風野 灯織"
+    },
+    {
+      "theme": "【小さな夜のトロイメライ】",
+      "character": "八宮 めぐる"
+    },
+    {
+      "theme": "【チエルアルコは流星の】",
+      "character": "八宮 めぐる"
+    },
+    {
+      "theme": "【ばってん長崎恋岬】",
+      "character": "月岡 恋鐘"
+    },
+    {
+      "theme": "【ビ～♡バップ海岸】",
+      "character": "月岡 恋鐘"
+    },
+    {
+      "theme": "【裏腹あまのじゃく】",
+      "character": "田中 摩美々"
+    },
+    {
+      "theme": "【そのまみみ無気力につき】",
+      "character": "田中 摩美々"
+    },
+    {
+      "theme": "【秘めやかファンサービス】",
+      "character": "白瀬 咲耶"
+    },
+    {
+      "theme": "【真紅一輪】",
+      "character": "白瀬 咲耶"
+    },
+    {
+      "theme": "【カラフルメタモルフォーゼ】",
+      "character": "三峰 結華"
+    },
+    {
+      "theme": "【雨色、上機嫌】",
+      "character": "三峰 結華"
+    },
+    {
+      "theme": "【包・帯・組・曲】",
+      "character": "幽谷 霧子"
+    },
+    {
+      "theme": "【伝・伝・心・音】",
+      "character": "幽谷 霧子"
+    },
+    {
+      "theme": "【白・白・白・祈】",
+      "character": "幽谷 霧子"
+    },
+    {
+      "theme": "【マメ丸と一緒！】",
+      "character": "小宮 果穂"
+    },
+    {
+      "theme": "【キャッチ・ザ・フォール！】",
+      "character": "小宮 果穂"
+    },
+    {
+      "theme": "【純真チョコレート】",
+      "character": "園田 智代子"
+    },
+    {
+      "theme": "【バッドガールの羽ばたき】",
+      "character": "西城 樹里"
+    },
+    {
+      "theme": "【オフデーゲーム】",
+      "character": "西城 樹里"
+    },
+    {
+      "theme": "【想ひいろは】",
+      "character": "杜野 凛世"
+    },
+    {
+      "theme": "【微熱風鈴】",
+      "character": "杜野 凛世"
+    },
+    {
+      "theme": "【ストイックトレーニング】",
+      "character": "有栖川 夏葉"
+    },
+    {
+      "theme": "【鳥籠をひらいて】",
+      "character": "有栖川 夏葉"
+    },
+    {
+      "theme": "【似合うかな？】",
+      "character": "大崎 甘奈"
+    },
+    {
+      "theme": "【甜花ちゃんといっしょ☆】",
+      "character": "大崎 甘奈"
+    },
+    {
+      "theme": "【秘密のだらだらタイム】",
+      "character": "大崎 甜花"
+    },
+    {
+      "theme": "【氷上バンビーナ】",
+      "character": "大崎 甜花"
+    },
+    {
+      "theme": "【お日様染めのマリーナ】",
+      "character": "大崎 甜花"
+    },
+    {
+      "theme": "【マイフェイバリット】",
+      "character": "桑山 千雪"
+    },
+    {
+      "theme": "【一夏一刻物語】",
+      "character": "桑山 千雪"
+    },
+    {
+      "theme": "【さかさま世界】",
+      "character": "芹沢 あさひ"
+    },
+    {
+      "theme": "【ザ・冬優子イズム】",
+      "character": "黛 冬優子"
+    },
+    {
+      "theme": "【気になる！？染めちゃう！？】",
+      "character": "和泉 愛依"
+    },
+    {
+      "theme": "【おかえり、ギター】",
+      "character": "浅倉 透"
+    },
+    {
+      "theme": "【カラメル】",
+      "character": "樋口 円香"
+    },
+    {
+      "theme": "【Makeup♡Box】",
+      "character": "市川 雛菜"
+    },
+    {
+      "theme": "【泣けよ洗濯機】",
+      "character": "七草 にちか"
+    },
+    {
+      "theme": "【MANNEQUIN】",
+      "character": "緋田 美琴"
+    },
+    {
+      "theme": "【Blind Driver】",
+      "character": "斑鳩 ルカ"
+    },
+    {
+      "theme": "【優You】",
+      "character": "鈴木 羽那"
+    },
+    {
+      "theme": "【漂白花火】",
+      "character": "郁田 はるき"
+    }
+  ],
+  "stats": {
+    "pickup": 1,
+    "ur": 2,
+    "ssr": 125,
+    "sr": 44,
+    "total": 172
+  }
+}

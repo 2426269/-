@@ -1,0 +1,3317 @@
+{
+  "totalCards": 414,
+  "cards": [
+    {
+      "characterName": "市川雛菜",
+      "themeName": "loading...",
+      "baseImage": "loading... 市川雛菜.webp",
+      "awakenedImage": "loading... 市川雛菜+.webp",
+      "fullName": "【loading...】市川雛菜",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "福丸小糸",
+      "themeName": "ちいさな巣立ち",
+      "baseImage": "ちいさな巣立ち 福丸小糸.webp",
+      "awakenedImage": "ちいさな巣立ち 福丸小糸+.webp",
+      "fullName": "【ちいさな巣立ち】福丸小糸",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "浅倉透",
+      "themeName": "アルマ",
+      "baseImage": "アルマ 浅倉透.webp",
+      "awakenedImage": "アルマ 浅倉透+.webp",
+      "fullName": "【アルマ】浅倉透",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "モラトリアム・レポート",
+      "baseImage": "モラトリアム・レポート 田中摩美々.webp",
+      "awakenedImage": "モラトリアム・レポート 田中摩美々+.webp",
+      "fullName": "【モラトリアム・レポート】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "longing",
+      "baseImage": "longing  大崎甘奈.webp",
+      "awakenedImage": "longing  大崎甘奈+.webp",
+      "fullName": "【longing】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "お散歩サンライト",
+      "baseImage": "お散歩サンライト 大崎甘奈.webp",
+      "awakenedImage": "お散歩サンライト 大崎甘奈+.webp",
+      "fullName": "【お散歩サンライト】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "すれちがいシアター",
+      "baseImage": "すれちがいシアター 大崎甘奈.webp",
+      "awakenedImage": "すれちがいシアター 大崎甘奈+.webp",
+      "fullName": "【すれちがいシアター】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "ないしょのスイーツ",
+      "baseImage": "ないしょのスイーツ 大崎甘奈.webp",
+      "awakenedImage": "ないしょのスイーツ 大崎甘奈+.webp",
+      "fullName": "【ないしょのスイーツ】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "ふたつの雨",
+      "baseImage": "ふたつの雨 大崎甘奈.webp",
+      "awakenedImage": "ふたつの雨 大崎甘奈+.webp",
+      "fullName": "【ふたつの雨】大崎甘奈",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "ゆらゆらアクアリウム",
+      "baseImage": "ゆらゆらアクアリウム 大崎甘奈.webp",
+      "awakenedImage": "ゆらゆらアクアリウム 大崎甘奈+.webp",
+      "fullName": "【ゆらゆらアクアリウム】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "スタンバイオッケー",
+      "baseImage": "スタンバイオッケー 大崎甘奈.webp",
+      "awakenedImage": "スタンバイオッケー 大崎甘奈+.webp",
+      "fullName": "【スタンバイオッケー】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "似合うかな？",
+      "baseImage": "似合うかな？ 大崎甘奈.webp",
+      "awakenedImage": "似合うかな？ 大崎甘奈+.webp",
+      "fullName": "【似合うかな？】大崎甘奈",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "叶えて☆ゴールドフィッシュ",
+      "baseImage": "叶えて☆ゴールドフィッシュ 大崎甘奈.webp",
+      "awakenedImage": "叶えて☆ゴールドフィッシュ 大崎甘奈+.webp",
+      "fullName": "【叶えて☆ゴールドフィッシュ】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "憧憬リキュール",
+      "baseImage": "憧憬リキュール 大崎甘奈.webp",
+      "awakenedImage": "憧憬リキュール 大崎甘奈+.webp",
+      "fullName": "【憧憬リキュール】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "挑戦アトラクティブ",
+      "baseImage": "挑戦アトラクティブ 大崎甘奈.webp",
+      "awakenedImage": "挑戦アトラクティブ 大崎甘奈+.webp",
+      "fullName": "【挑戦アトラクティブ】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "甜花ちゃんといっしょ☆",
+      "baseImage": "甜花ちゃんといっしょ☆ 大崎甘奈.webp",
+      "awakenedImage": "甜花ちゃんといっしょ☆ 大崎甘奈+.webp",
+      "fullName": "【甜花ちゃんといっしょ☆】大崎甘奈",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "竜宮城へ ご招待☆",
+      "baseImage": "竜宮城へ ご招待☆ 大崎甘奈.webp",
+      "awakenedImage": "竜宮城へ ご招待☆ 大崎甘奈+.webp",
+      "fullName": "【竜宮城へ ご招待☆】大崎甘奈",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "約束ペタル",
+      "baseImage": "約束ペタル 大崎甘奈.webp",
+      "awakenedImage": "約束ペタル 大崎甘奈+.webp",
+      "fullName": "【約束ペタル】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "聞いてマイハート",
+      "baseImage": "聞いてマイハート 大崎甘奈.webp",
+      "awakenedImage": "聞いてマイハート 大崎甘奈+.webp",
+      "fullName": "【聞いてマイハート】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "見つけたい、だけど……",
+      "baseImage": "見つけたい、だけど…… 大崎甘奈.webp",
+      "awakenedImage": "見つけたい、だけど…… 大崎甘奈+.webp",
+      "fullName": "【見つけたい、だけど……】大崎甘奈",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "大崎甘奈",
+      "themeName": "輝いてアンドロメダ",
+      "baseImage": "輝いてアンドロメダ 大崎甘奈.webp",
+      "awakenedImage": "輝いてアンドロメダ 大崎甘奈+.webp",
+      "fullName": "【輝いてアンドロメダ】大崎甘奈",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "BON・BON・DAY！",
+      "baseImage": "BON・BON・DAY！ 大崎甜花.webp",
+      "awakenedImage": "BON・BON・DAY！ 大崎甜花+.webp",
+      "fullName": "【BON・BON・DAY！】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "Eve",
+      "baseImage": "Eve 大崎甜花.webp",
+      "awakenedImage": "Eve 大崎甜花+.webp",
+      "fullName": "【Eve】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "Feel Like Flower",
+      "baseImage": "Feel Like Flower 大崎甜花.webp",
+      "awakenedImage": "Feel Like Flower 大崎甜花+.webp",
+      "fullName": "【Feel Like Flower】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "I♡DOLL",
+      "baseImage": "I♡DOLL 大崎甜花.webp",
+      "awakenedImage": "I♡DOLL 大崎甜花+.webp",
+      "fullName": "【I♡DOLL】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "LADY♡e-DOL",
+      "baseImage": "LADY♡e-DOL 大崎甜花.webp",
+      "awakenedImage": "LADY♡e-DOL 大崎甜花+.webp",
+      "fullName": "【LADY♡e-DOL】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "U♥DOLL",
+      "baseImage": "U♥DOLL 大崎甜花.webp",
+      "awakenedImage": "U♥DOLL 大崎甜花+.webp",
+      "fullName": "【U♥DOLL】大崎甜花",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "お日様染めのマリーナ",
+      "baseImage": "お日様染めのマリーナ 大崎甜花.webp",
+      "awakenedImage": "お日様染めのマリーナ 大崎甜花+.webp",
+      "fullName": "【お日様染めのマリーナ】大崎甜花",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "きみは相棒",
+      "baseImage": "きみは相棒 大崎甜花.webp",
+      "awakenedImage": "きみは相棒 大崎甜花+.webp",
+      "fullName": "【きみは相棒】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "シンメトリー・プールサイド",
+      "baseImage": "シンメトリー・プールサイド 大崎甜花.webp",
+      "awakenedImage": "シンメトリー・プールサイド 大崎甜花+.webp",
+      "fullName": "【シンメトリー・プールサイド】大崎甜花",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "ストライク狙って",
+      "baseImage": "ストライク狙って 大崎甜花.webp",
+      "awakenedImage": "ストライク狙って 大崎甜花+.webp",
+      "fullName": "【ストライク狙って】大崎甜花",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "バス・タイムの気分で",
+      "baseImage": "バス・タイムの気分で 大崎甜花.webp",
+      "awakenedImage": "バス・タイムの気分で 大崎甜花+.webp",
+      "fullName": "【バス・タイムの気分で】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "事務所。静寂。大輪の華",
+      "baseImage": "事務所。静寂。大輪の華 大崎甜花.webp",
+      "awakenedImage": "事務所。静寂。大輪の華 大崎甜花+.webp",
+      "fullName": "【事務所。静寂。大輪の華】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "四夜一夜物語",
+      "baseImage": "四夜一夜物語 大崎甜花.webp",
+      "awakenedImage": "四夜一夜物語 大崎甜花+.webp",
+      "fullName": "【四夜一夜物語】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "好きなものはなんですか？",
+      "baseImage": "好きなものはなんですか？ 大崎甜花.webp",
+      "awakenedImage": "好きなものはなんですか？ 大崎甜花+.webp",
+      "fullName": "【好きなものはなんですか？】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "氷上バンビーナ",
+      "baseImage": "氷上バンビーナ 大崎甜花.webp",
+      "awakenedImage": "氷上バンビーナ 大崎甜花+.webp",
+      "fullName": "【氷上バンビーナ】大崎甜花",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "甜der Dream Show",
+      "baseImage": "甜der Dream Show 大崎甜花.webp",
+      "awakenedImage": "甜der Dream Show 大崎甜花+.webp",
+      "fullName": "【甜der Dream Show】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "甜ing Room",
+      "baseImage": "甜ing Room 大崎甜花.webp",
+      "awakenedImage": "甜ing Room 大崎甜花+.webp",
+      "fullName": "【甜ing Room】大崎甜花",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "大崎甜花",
+      "themeName": "秘密のだらだらタイム",
+      "baseImage": "秘密のだらだらタイム 大崎甜花.webp",
+      "awakenedImage": "秘密のだらだらタイム 大崎甜花+.webp",
+      "fullName": "【秘密のだらだらタイム】大崎甜花",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "つよがりのためのララバイ",
+      "baseImage": "つよがりのためのララバイ 桑山千雪.webp",
+      "awakenedImage": "つよがりのためのララバイ 桑山千雪+.webp",
+      "fullName": "【つよがりのためのララバイ】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "はるかぜまち、1番地",
+      "baseImage": "はるかぜまち、1番地 桑山千雪.webp",
+      "awakenedImage": "はるかぜまち、1番地 桑山千雪+.webp",
+      "fullName": "【はるかぜまち、1番地】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "ひとひらで紡ぐ世界",
+      "baseImage": "ひとひらで紡ぐ世界 桑山千雪.webp",
+      "awakenedImage": "ひとひらで紡ぐ世界 桑山千雪+.webp",
+      "fullName": "【ひとひらで紡ぐ世界】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "やわらかくうけとめて",
+      "baseImage": "やわらかくうけとめて 桑山千雪.webp",
+      "awakenedImage": "やわらかくうけとめて 桑山千雪+.webp",
+      "fullName": "【やわらかくうけとめて】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "よそゆき顔のセレナーデ",
+      "baseImage": "よそゆき顔のセレナーデ 桑山千雪.webp",
+      "awakenedImage": "よそゆき顔のセレナーデ 桑山千雪+.webp",
+      "fullName": "【よそゆき顔のセレナーデ】桑山千雪",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "サマーハニー・シーズン",
+      "baseImage": "サマーハニー・シーズン 桑山千雪.webp",
+      "awakenedImage": "サマーハニー・シーズン 桑山千雪+.webp",
+      "fullName": "【サマーハニー・シーズン】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "シークレット・ヒロイン",
+      "baseImage": "シークレット・ヒロイン 桑山千雪.webp",
+      "awakenedImage": "シークレット・ヒロイン 桑山千雪+.webp",
+      "fullName": "【シークレット・ヒロイン】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "ネームレス・ヘヴンに憧れて",
+      "baseImage": "ネームレス・ヘヴンに憧れて 桑山千雪.webp",
+      "awakenedImage": "ネームレス・ヘヴンに憧れて 桑山千雪+.webp",
+      "fullName": "【ネームレス・ヘヴンに憧れて】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "ハッピー・アイ・スクリーム",
+      "baseImage": "ハッピー・アイ・スクリーム 桑山千雪.webp",
+      "awakenedImage": "ハッピー・アイ・スクリーム 桑山千雪+.webp",
+      "fullName": "【ハッピー・アイ・スクリーム】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "マイフェイバリット",
+      "baseImage": "マイフェイバリット 桑山千雪.webp",
+      "awakenedImage": "マイフェイバリット 桑山千雪+.webp",
+      "fullName": "【マイフェイバリット】桑山千雪",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "マイ・ピュア・ロマンス",
+      "baseImage": "マイ・ピュア・ロマンス 桑山千雪.webp",
+      "awakenedImage": "マイ・ピュア・ロマンス 桑山千雪+.webp",
+      "fullName": "【マイ・ピュア・ロマンス】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "ワン・モア・フラワリング",
+      "baseImage": "ワン・モア・フラワリング 桑山千雪.webp",
+      "awakenedImage": "ワン・モア・フラワリング 桑山千雪+.webp",
+      "fullName": "【ワン・モア・フラワリング】桑山千雪",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "一夏一刻物語",
+      "baseImage": "一夏一刻物語 桑山千雪.webp",
+      "awakenedImage": "一夏一刻物語 桑山千雪+.webp",
+      "fullName": "【一夏一刻物語】桑山千雪",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "切り拓いて・茨",
+      "baseImage": "切り拓いて・茨 桑山千雪.webp",
+      "awakenedImage": "切り拓いて・茨 桑山千雪+.webp",
+      "fullName": "【切り拓いて・茨】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "剥がされて、虚ろ",
+      "baseImage": "剥がされて、虚ろ 桑山千雪.webp",
+      "awakenedImage": "剥がされて、虚ろ 桑山千雪+.webp",
+      "fullName": "【剥がされて、虚ろ】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "夏、イエー",
+      "baseImage": "夏、イエー 桑山千雪.webp",
+      "awakenedImage": "夏、イエー 桑山千雪+.webp",
+      "fullName": "【夏、イエー】桑山千雪",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "桑山千雪",
+      "themeName": "秋空と紅葉",
+      "baseImage": "秋空と紅葉 桑山千雪.webp",
+      "awakenedImage": "秋空と紅葉 桑山千雪+.webp",
+      "fullName": "【秋空と紅葉】桑山千雪",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "斑鳩ルカ",
+      "themeName": "Blind Driver",
+      "baseImage": "Blind Driver 斑鳩ルカ.webp",
+      "awakenedImage": "Blind Driver 斑鳩ルカ+.webp",
+      "fullName": "【Blind Driver】斑鳩ルカ",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "斑鳩ルカ",
+      "themeName": "BLUES",
+      "baseImage": "BLUES 斑鳩ルカ.webp",
+      "awakenedImage": "BLUES 斑鳩ルカ+.webp",
+      "fullName": "【BLUES】斑鳩ルカ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "斑鳩ルカ",
+      "themeName": "broken shout",
+      "baseImage": "broken shout 斑鳩ルカ.webp",
+      "awakenedImage": "broken shout 斑鳩ルカ+.webp",
+      "fullName": "【broken shout】斑鳩ルカ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "斑鳩ルカ",
+      "themeName": "Could Be",
+      "baseImage": "Could Be 斑鳩ルカ.webp",
+      "awakenedImage": "Could Be 斑鳩ルカ+.webp",
+      "fullName": "【Could Be】斑鳩ルカ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "斑鳩ルカ",
+      "themeName": "new or ...",
+      "baseImage": "new or ... 斑鳩ルカ.webp",
+      "awakenedImage": "new or ... 斑鳩ルカ+.webp",
+      "fullName": "【new or ...】斑鳩ルカ",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "斑鳩ルカ",
+      "themeName": "Noisy Rush",
+      "baseImage": "Noisy Rush 斑鳩ルカ.webp",
+      "awakenedImage": "Noisy Rush 斑鳩ルカ+.webp",
+      "fullName": "【Noisy Rush】斑鳩ルカ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "斑鳩ルカ",
+      "themeName": "SMASH",
+      "baseImage": "SMASH 斑鳩ルカ.webp",
+      "awakenedImage": "SMASH 斑鳩ルカ+.webp",
+      "fullName": "【SMASH】斑鳩ルカ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "郁田はるき",
+      "themeName": "Hopeland",
+      "baseImage": "Hopeland 郁田はるき.webp",
+      "awakenedImage": "Hopeland 郁田はるき+.webp",
+      "fullName": "【Hopeland】郁田はるき",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "郁田はるき",
+      "themeName": "song for you",
+      "baseImage": "song for you 郁田はるき.webp",
+      "awakenedImage": "song for you 郁田はるき+.webp",
+      "fullName": "【song for you】郁田はるき",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "郁田はるき",
+      "themeName": "桜花拾",
+      "baseImage": "桜花拾 郁田はるき.webp",
+      "awakenedImage": "桜花拾 郁田はるき+.webp",
+      "fullName": "【桜花拾】郁田はるき",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "郁田はるき",
+      "themeName": "流星パレット",
+      "baseImage": "流星パレット 郁田はるき.webp",
+      "awakenedImage": "流星パレット 郁田はるき+.webp",
+      "fullName": "【流星パレット】郁田はるき",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "郁田はるき",
+      "themeName": "漂白花火",
+      "baseImage": "漂白花火 郁田はるき.webp",
+      "awakenedImage": "漂白花火 郁田はるき+.webp",
+      "fullName": "【漂白花火】郁田はるき",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "郁田はるき",
+      "themeName": "連綿と、桜",
+      "baseImage": "連綿と、桜 郁田はるき.webp",
+      "awakenedImage": "連綿と、桜 郁田はるき+.webp",
+      "fullName": "【連綿と、桜】郁田はるき",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "鈴木羽那",
+      "themeName": "Eyes On You",
+      "baseImage": "Eyes On You 鈴木羽那.webp",
+      "awakenedImage": "Eyes On You 鈴木羽那+.webp",
+      "fullName": "【Eyes On You】鈴木羽那",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "鈴木羽那",
+      "themeName": "From You",
+      "baseImage": "From You 鈴木羽那.webp",
+      "awakenedImage": "From You 鈴木羽那+.webp",
+      "fullName": "【From You】鈴木羽那",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "鈴木羽那",
+      "themeName": "Marry You？",
+      "baseImage": "Marry You？ 鈴木羽那.webp",
+      "awakenedImage": "Marry You？ 鈴木羽那+.webp",
+      "fullName": "【Marry You？】鈴木羽那",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "鈴木羽那",
+      "themeName": "Scene With You",
+      "baseImage": "Scene With You 鈴木羽那.webp",
+      "awakenedImage": "Scene With You 鈴木羽那+.webp",
+      "fullName": "【Scene With You】鈴木羽那",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "鈴木羽那",
+      "themeName": "優You",
+      "baseImage": "優You 鈴木羽那.webp",
+      "awakenedImage": "優You 鈴木羽那+.webp",
+      "fullName": "【優You】鈴木羽那",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "鈴木羽那",
+      "themeName": "純白の君へ",
+      "baseImage": "純白の君へ 鈴木羽那.webp",
+      "awakenedImage": "純白の君へ 鈴木羽那+.webp",
+      "fullName": "【純白の君へ】鈴木羽那",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "緋田美琴",
+      "themeName": "GLIMMER",
+      "baseImage": "GLIMMER 緋田美琴.webp",
+      "awakenedImage": "GLIMMER 緋田美琴+.webp",
+      "fullName": "【GLIMMER】緋田美琴",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "Kn☆cking. Kn☆cking.",
+      "baseImage": "Kn☆cking. Kn☆cking. 園田智代子.webp",
+      "awakenedImage": "Kn☆cking. Kn☆cking. 園田智代子+.webp",
+      "fullName": "【Kn☆cking. Kn☆cking.】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "T☆ Queen",
+      "baseImage": "T☆ Queen 園田智代子.webp",
+      "awakenedImage": "T☆ Queen 園田智代子+.webp",
+      "fullName": "【T☆ Queen】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "You're My Dream",
+      "baseImage": "You're My Dream 園田智代子.webp",
+      "awakenedImage": "You're My Dream 園田智代子+.webp",
+      "fullName": "【You're My Dream】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "あそ→と♥ちよこれいと",
+      "baseImage": "あそ→と♥ちよこれいと 園田智代子.webp",
+      "awakenedImage": "あそ→と♥ちよこれいと 園田智代子+.webp",
+      "fullName": "【あそ→と♥ちよこれいと】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "うつくしいあした",
+      "baseImage": "うつくしいあした 園田智代子.webp",
+      "awakenedImage": "うつくしいあした 園田智代子+.webp",
+      "fullName": "【うつくしいあした】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "かきまぜたら＊ミルク",
+      "baseImage": "かきまぜたら＊ミルク 園田智代子.webp",
+      "awakenedImage": "かきまぜたら＊ミルク 園田智代子+.webp",
+      "fullName": "【かきまぜたら＊ミルク】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "ちょこ色×きらきらロマン",
+      "baseImage": "ちょこ色×きらきらロマン 園田智代子.webp",
+      "awakenedImage": "ちょこ色×きらきらロマン 園田智代子+.webp",
+      "fullName": "【ちょこ色×きらきらロマン】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "はじめましてラストダンス",
+      "baseImage": "はじめましてラストダンス 園田智代子.webp",
+      "awakenedImage": "はじめましてラストダンス 園田智代子+.webp",
+      "fullName": "【はじめましてラストダンス】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "よろしく♡めしませっ",
+      "baseImage": "よろしく♡めしませっ 園田智代子.webp",
+      "awakenedImage": "よろしく♡めしませっ 園田智代子+.webp",
+      "fullName": "【よろしく♡めしませっ】園田智代子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "チョコ for Y♡U",
+      "baseImage": "チョコ for Y♡U 園田智代子.webp",
+      "awakenedImage": "チョコ for Y♡U 園田智代子+.webp",
+      "fullName": "【チョコ for Y♡U】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "トコハレ☀コメディ",
+      "baseImage": "トコハレ☀コメディ 園田智代子.webp",
+      "awakenedImage": "トコハレ☀コメディ 園田智代子+.webp",
+      "fullName": "【トコハレ☀コメディ】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "フロイラインに心酔",
+      "baseImage": "フロイラインに心酔 園田智代子.webp",
+      "awakenedImage": "フロイラインに心酔 園田智代子+.webp",
+      "fullName": "【フロイラインに心酔】園田智代子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "プリティ・スイート",
+      "baseImage": "プリティ・スイート 園田智代子.webp",
+      "awakenedImage": "プリティ・スイート 園田智代子+.webp",
+      "fullName": "【プリティ・スイート】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "砂糖づけ・ビターエンド",
+      "baseImage": "砂糖づけ・ビターエンド 園田智代子.webp",
+      "awakenedImage": "砂糖づけ・ビターエンド 園田智代子+.webp",
+      "fullName": "【砂糖づけ・ビターエンド】園田智代子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "純真チョコレート",
+      "baseImage": "純真チョコレート 園田智代子.webp",
+      "awakenedImage": "純真チョコレート 園田智代子+.webp",
+      "fullName": "【純真チョコレート】園田智代子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "園田智代子",
+      "themeName": "錯覚・Darling",
+      "baseImage": "錯覚・Darling 園田智代子.webp",
+      "awakenedImage": "錯覚・Darling 園田智代子+.webp",
+      "fullName": "【錯覚・Darling】園田智代子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "きみだけ！",
+      "baseImage": "きみだけ！ 小宮果穂.webp",
+      "awakenedImage": "きみだけ！ 小宮果穂+.webp",
+      "fullName": "【きみだけ！】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "ななひゃくさんじゅう　えん",
+      "baseImage": "ななひゃくさんじゅう　えん 小宮果穂.webp",
+      "awakenedImage": "ななひゃくさんじゅう　えん 小宮果穂+.webp",
+      "fullName": "【ななひゃくさんじゅう　えん】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "アイドルじゃなくなったら",
+      "baseImage": "アイドルじゃなくなったら 小宮果穂.webp",
+      "awakenedImage": "アイドルじゃなくなったら 小宮果穂+.webp",
+      "fullName": "【アイドルじゃなくなったら】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "エクストリーム・ブレイク！",
+      "baseImage": "エクストリーム・ブレイク！ 小宮果穂.webp",
+      "awakenedImage": "エクストリーム・ブレイク！ 小宮果穂+.webp",
+      "fullName": "【エクストリーム・ブレイク！】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "カラーズキャッチ！",
+      "baseImage": "カラーズキャッチ！ 小宮果穂.webp",
+      "awakenedImage": "カラーズキャッチ！ 小宮果穂+.webp",
+      "fullName": "【カラーズキャッチ！】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "キャッチ・ザ・フォール！",
+      "baseImage": "キャッチ・ザ・フォール！ 小宮果穂.webp",
+      "awakenedImage": "キャッチ・ザ・フォール！ 小宮果穂+.webp",
+      "fullName": "【キャッチ・ザ・フォール！】小宮果穂",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "ギア・アップ！ゴー・オン！",
+      "baseImage": "ギア・アップ！ゴー・オン！ 小宮果穂.webp",
+      "awakenedImage": "ギア・アップ！ゴー・オン！ 小宮果穂+.webp",
+      "fullName": "【ギア・アップ！ゴー・オン！】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "スノードーム・シンドローム",
+      "baseImage": "スノードーム・シンドローム 小宮果穂.webp",
+      "awakenedImage": "スノードーム・シンドローム 小宮果穂+.webp",
+      "fullName": "【スノードーム・シンドローム】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "ソー・ディフィカルト！",
+      "baseImage": "ソー・ディフィカルト！ 小宮果穂.webp",
+      "awakenedImage": "ソー・ディフィカルト！ 小宮果穂+.webp",
+      "fullName": "【ソー・ディフィカルト！】小宮果穂",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "デコって！ハッピークッキー",
+      "baseImage": "デコって！ハッピークッキー 小宮果穂.webp",
+      "awakenedImage": "デコって！ハッピークッキー 小宮果穂+.webp",
+      "fullName": "【デコって！ハッピークッキー】小宮果穂",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "フルスロットルエイジ！",
+      "baseImage": "フルスロットルエイジ！ 小宮果穂.webp",
+      "awakenedImage": "フルスロットルエイジ！ 小宮果穂+.webp",
+      "fullName": "【フルスロットルエイジ！】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "マメ丸と一緒！",
+      "baseImage": "マメ丸と一緒！ 小宮果穂.webp",
+      "awakenedImage": "マメ丸と一緒！ 小宮果穂+.webp",
+      "fullName": "【マメ丸と一緒！】小宮果穂",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "両手に兄！",
+      "baseImage": "両手に兄！ 小宮果穂.webp",
+      "awakenedImage": "両手に兄！ 小宮果穂+.webp",
+      "fullName": "【両手に兄！】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "新装備・バブルバスター！",
+      "baseImage": "新装備・バブルバスター！ 小宮果穂.webp",
+      "awakenedImage": "新装備・バブルバスター！ 小宮果穂+.webp",
+      "fullName": "【新装備・バブルバスター！】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "日刊ウィズ・ユー！",
+      "baseImage": "日刊ウィズ・ユー！ 小宮果穂.webp",
+      "awakenedImage": "日刊ウィズ・ユー！ 小宮果穂+.webp",
+      "fullName": "【日刊ウィズ・ユー！】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "潮騒のシーショア",
+      "baseImage": "潮騒のシーショア 小宮果穂.webp",
+      "awakenedImage": "潮騒のシーショア 小宮果穂+.webp",
+      "fullName": "【潮騒のシーショア】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "窓辺・サイレントタイム",
+      "baseImage": "窓辺・サイレントタイム 小宮果穂.webp",
+      "awakenedImage": "窓辺・サイレントタイム 小宮果穂+.webp",
+      "fullName": "【窓辺・サイレントタイム】小宮果穂",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "小宮果穂",
+      "themeName": "第2形態アーマードタイプ",
+      "baseImage": "第2形態アーマードタイプ 小宮果穂.webp",
+      "awakenedImage": "第2形態アーマードタイプ 小宮果穂+.webp",
+      "fullName": "【第2形態アーマードタイプ】小宮果穂",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "Birdy BUddy",
+      "baseImage": "Birdy BUddy 有栖川夏葉.webp",
+      "awakenedImage": "Birdy BUddy 有栖川夏葉+.webp",
+      "fullName": "【Birdy BUddy】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "cheer+",
+      "baseImage": "cheer+ 有栖川夏葉.webp",
+      "awakenedImage": "cheer+ 有栖川夏葉+.webp",
+      "fullName": "【cheer+】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "Fall",
+      "baseImage": "Fall 有栖川夏葉.webp",
+      "awakenedImage": "Fall 有栖川夏葉+.webp",
+      "fullName": "【Fall】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "Ring a bell",
+      "baseImage": "Ring a bell 有栖川夏葉.webp",
+      "awakenedImage": "Ring a bell 有栖川夏葉+.webp",
+      "fullName": "【Ring a bell】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "TOTTを誓って",
+      "baseImage": "TOTTを誓って 有栖川夏葉.webp",
+      "awakenedImage": "TOTTを誓って 有栖川夏葉+.webp",
+      "fullName": "【TOTTを誓って】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "♡AKQJ10",
+      "baseImage": "♡AKQJ10 有栖川夏葉.webp",
+      "awakenedImage": "♡AKQJ10 有栖川夏葉+.webp",
+      "fullName": "【♡AKQJ10】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "アルティメットマーメイド",
+      "baseImage": "アルティメットマーメイド 有栖川夏葉.webp",
+      "awakenedImage": "アルティメットマーメイド 有栖川夏葉+.webp",
+      "fullName": "【アルティメットマーメイド】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "カトレアの花言葉",
+      "baseImage": "カトレアの花言葉 有栖川夏葉.webp",
+      "awakenedImage": "カトレアの花言葉 有栖川夏葉+.webp",
+      "fullName": "【カトレアの花言葉】有栖川夏葉",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "ストイックトレーニング",
+      "baseImage": "ストイックトレーニング 有栖川夏葉.webp",
+      "awakenedImage": "ストイックトレーニング 有栖川夏葉+.webp",
+      "fullName": "【ストイックトレーニング】有栖川夏葉",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "ビューティフル",
+      "baseImage": "ビューティフル 有栖川夏葉.webp",
+      "awakenedImage": "ビューティフル 有栖川夏葉+.webp",
+      "fullName": "【ビューティフル】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "マイバレンタイン",
+      "baseImage": "マイバレンタイン 有栖川夏葉.webp",
+      "awakenedImage": "マイバレンタイン 有栖川夏葉+.webp",
+      "fullName": "【マイバレンタイン】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "メイドインナツハ",
+      "baseImage": "メイドインナツハ 有栖川夏葉.webp",
+      "awakenedImage": "メイドインナツハ 有栖川夏葉+.webp",
+      "fullName": "【メイドインナツハ】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "ユアバレンタイン",
+      "baseImage": "ユアバレンタイン 有栖川夏葉.webp",
+      "awakenedImage": "ユアバレンタイン 有栖川夏葉+.webp",
+      "fullName": "【ユアバレンタイン】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "夏は来ぬ",
+      "baseImage": "夏は来ぬ 有栖川夏葉.webp",
+      "awakenedImage": "夏は来ぬ 有栖川夏葉+.webp",
+      "fullName": "【夏は来ぬ】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "風がかけていくように",
+      "baseImage": "風がかけていくように 有栖川夏葉.webp",
+      "awakenedImage": "風がかけていくように 有栖川夏葉+.webp",
+      "fullName": "【風がかけていくように】有栖川夏葉",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "鳥籠をひらいて",
+      "baseImage": "鳥籠をひらいて 有栖川夏葉.webp",
+      "awakenedImage": "鳥籠をひらいて 有栖川夏葉+.webp",
+      "fullName": "【鳥籠をひらいて】有栖川夏葉",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "さよならごつこ",
+      "baseImage": "さよならごつこ 杜野凛世.webp",
+      "awakenedImage": "さよならごつこ 杜野凛世+.webp",
+      "fullName": "【さよならごつこ】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "ふらここのうた",
+      "baseImage": "ふらここのうた 杜野凛世.webp",
+      "awakenedImage": "ふらここのうた 杜野凛世+.webp",
+      "fullName": "【ふらここのうた】杜野凛世",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "われにかへれ",
+      "baseImage": "われにかへれ 杜野凛世.webp",
+      "awakenedImage": "われにかへれ 杜野凛世+.webp",
+      "fullName": "【われにかへれ】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "ラヴ・レター",
+      "baseImage": "ラヴ・レター 杜野凛世.webp",
+      "awakenedImage": "ラヴ・レター 杜野凛世+.webp",
+      "fullName": "【ラヴ・レター】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "ロー・ポジション",
+      "baseImage": "ロー・ポジション 杜野凛世.webp",
+      "awakenedImage": "ロー・ポジション 杜野凛世+.webp",
+      "fullName": "【ロー・ポジション】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "凛世花伝",
+      "baseImage": "凛世花伝 杜野凛世.webp",
+      "awakenedImage": "凛世花伝 杜野凛世+.webp",
+      "fullName": "【凛世花伝】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "凜凛、凛世",
+      "baseImage": "凜凛、凛世 杜野凛世.webp",
+      "awakenedImage": "凜凛、凛世 杜野凛世+.webp",
+      "fullName": "【凜凛、凛世】杜野凛世",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "十二月短篇",
+      "baseImage": "十二月短篇 杜野凛世.webp",
+      "awakenedImage": "十二月短篇 杜野凛世+.webp",
+      "fullName": "【十二月短篇】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "微熱風鈴",
+      "baseImage": "微熱風鈴 杜野凛世.webp",
+      "awakenedImage": "微熱風鈴 杜野凛世+.webp",
+      "fullName": "【微熱風鈴】杜野凛世",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "想ひいろは",
+      "baseImage": "想ひいろは 杜野凛世.webp",
+      "awakenedImage": "想ひいろは 杜野凛世+.webp",
+      "fullName": "【想ひいろは】杜野凛世",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "春告窓",
+      "baseImage": "春告窓 杜野凛世.webp",
+      "awakenedImage": "春告窓 杜野凛世+.webp",
+      "fullName": "【春告窓】杜野凛世",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "晩秋ろまんす",
+      "baseImage": "晩秋ろまんす 杜野凛世.webp",
+      "awakenedImage": "晩秋ろまんす 杜野凛世+.webp",
+      "fullName": "【晩秋ろまんす】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "杜野凛世の印象派",
+      "baseImage": "杜野凛世の印象派 杜野凛世.webp",
+      "awakenedImage": "杜野凛世の印象派 杜野凛世+.webp",
+      "fullName": "【杜野凛世の印象派】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "染光満月",
+      "baseImage": "染光満月 杜野凛世.webp",
+      "awakenedImage": "染光満月 杜野凛世+.webp",
+      "fullName": "【染光満月】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "水色感情",
+      "baseImage": "水色感情 杜野凛世.webp",
+      "awakenedImage": "水色感情 杜野凛世+.webp",
+      "fullName": "【水色感情】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "片恋はあと",
+      "baseImage": "片恋はあと 杜野凛世.webp",
+      "awakenedImage": "片恋はあと 杜野凛世+.webp",
+      "fullName": "【片恋はあと】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "硝子少女",
+      "baseImage": "硝子少女 杜野凛世.webp",
+      "awakenedImage": "硝子少女 杜野凛世+.webp",
+      "fullName": "【硝子少女】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "花は",
+      "baseImage": "花は 杜野凛世.webp",
+      "awakenedImage": "花は 杜野凛世+.webp",
+      "fullName": "【花は】杜野凛世",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "階段式純情昇降機",
+      "baseImage": "階段式純情昇降機 杜野凛世.webp",
+      "awakenedImage": "階段式純情昇降機 杜野凛世+.webp",
+      "fullName": "【階段式純情昇降機】杜野凛世",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "# 3738 Custom Order",
+      "baseImage": "# 3738 Custom Order 西城樹里.webp",
+      "awakenedImage": "# 3738 Custom Order 西城樹里+.webp",
+      "fullName": "【# 3738 Custom Order】西城樹里",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "Clashmade",
+      "baseImage": "Clashmade 西城樹里.webp",
+      "awakenedImage": "Clashmade 西城樹里+.webp",
+      "fullName": "【Clashmade】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "I・OWE・U",
+      "baseImage": "I・OWE・U 西城樹里.webp",
+      "awakenedImage": "I・OWE・U 西城樹里+.webp",
+      "fullName": "【I・OWE・U】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "sparkle,,,",
+      "baseImage": "sparkle,,, 西城樹里.webp",
+      "awakenedImage": "sparkle,,, 西城樹里+.webp",
+      "fullName": "【sparkle,,,】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "STARTRAIN",
+      "baseImage": "STARTRAIN 西城樹里.webp",
+      "awakenedImage": "STARTRAIN 西城樹里+.webp",
+      "fullName": "【STARTRAIN】西城樹里",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "あなた色アンダンテ",
+      "baseImage": "あなた色アンダンテ 西城樹里.webp",
+      "awakenedImage": "あなた色アンダンテ 西城樹里+.webp",
+      "fullName": "【あなた色アンダンテ】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "きらり、足跡",
+      "baseImage": "きらり、足跡 西城樹里.webp",
+      "awakenedImage": "きらり、足跡 西城樹里+.webp",
+      "fullName": "【きらり、足跡】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "とびっきりジンジャー",
+      "baseImage": "とびっきりジンジャー 西城樹里.webp",
+      "awakenedImage": "とびっきりジンジャー 西城樹里+.webp",
+      "fullName": "【とびっきりジンジャー】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "オフデーゲーム",
+      "baseImage": "オフデーゲーム 西城樹里.webp",
+      "awakenedImage": "オフデーゲーム 西城樹里+.webp",
+      "fullName": "【オフデーゲーム】西城樹里",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "バッドガールの羽ばたき",
+      "baseImage": "バッドガールの羽ばたき 西城樹里.webp",
+      "awakenedImage": "バッドガールの羽ばたき 西城樹里+.webp",
+      "fullName": "【バッドガールの羽ばたき】西城樹里",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "ラムネ色の覚悟",
+      "baseImage": "ラムネ色の覚悟 西城樹里.webp",
+      "awakenedImage": "ラムネ色の覚悟 西城樹里+.webp",
+      "fullName": "【ラムネ色の覚悟】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "夏服にWIND YOU！",
+      "baseImage": "夏服にWIND YOU！ 西城樹里.webp",
+      "awakenedImage": "夏服にWIND YOU！ 西城樹里+.webp",
+      "fullName": "【夏服にWIND YOU！】西城樹里",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "曲がり角のランウェイ",
+      "baseImage": "曲がり角のランウェイ 西城樹里.webp",
+      "awakenedImage": "曲がり角のランウェイ 西城樹里+.webp",
+      "fullName": "【曲がり角のランウェイ】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "秋陽のスケッチ",
+      "baseImage": "秋陽のスケッチ 西城樹里.webp",
+      "awakenedImage": "秋陽のスケッチ 西城樹里+.webp",
+      "fullName": "【秋陽のスケッチ】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "花染む街で、君と",
+      "baseImage": "花染む街で、君と 西城樹里.webp",
+      "awakenedImage": "花染む街で、君と 西城樹里+.webp",
+      "fullName": "【花染む街で、君と】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "誰が為シンパシー",
+      "baseImage": "誰が為シンパシー 西城樹里.webp",
+      "awakenedImage": "誰が為シンパシー 西城樹里+.webp",
+      "fullName": "【誰が為シンパシー】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "西城樹里",
+      "themeName": "陽の光、透かせば",
+      "baseImage": "陽の光、透かせば 西城樹里.webp",
+      "awakenedImage": "陽の光、透かせば 西城樹里+.webp",
+      "fullName": "【陽の光、透かせば】西城樹里",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "きゅん ♡コメ",
+      "baseImage": "きゅん ♡コメ 八宮めぐる.webp",
+      "awakenedImage": "きゅ ん♡コメ 八宮めぐる+.webp",
+      "fullName": "【きゅん ♡コメ】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "こころレイヤリング",
+      "baseImage": "こころレイヤリング 八宮めぐる.webp",
+      "awakenedImage": "こころレイヤリング 八宮めぐる+.webp",
+      "fullName": "【こころレイヤリング】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "ずっと・グッド・ラック",
+      "baseImage": "ずっと・グッド・ラック 八宮めぐる.webp",
+      "awakenedImage": "ずっと・グッド・ラック 八宮めぐる+.webp",
+      "fullName": "【ずっと・グッド・ラック】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "そらあいスウィング",
+      "baseImage": "そらあいスウィング 八宮めぐる.webp",
+      "awakenedImage": "そらあいスウィング 八宮めぐる+.webp",
+      "fullName": "【そらあいスウィング】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "たそ かれスワッグ",
+      "baseImage": "たそ かれスワッグ 八宮めぐる.webp",
+      "awakenedImage": "たそか れスワッグ 八宮めぐる+.webp",
+      "fullName": "【たそ かれスワッグ】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "たまゆらフレーミング",
+      "baseImage": "たまゆらフレーミング 八宮めぐる.webp",
+      "awakenedImage": "たまゆらフレーミング 八宮めぐる+.webp",
+      "fullName": "【たまゆらフレーミング】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "ふたり色　クレオール",
+      "baseImage": "ふたり色　クレオール 八宮めぐる.webp",
+      "awakenedImage": "ふたり色　クレオール 八宮めぐる+.webp",
+      "fullName": "【ふたり色　クレオール】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "アイの誓い",
+      "baseImage": "アイの誓い 八宮めぐる.webp",
+      "awakenedImage": "アイの誓い 八宮めぐる+.webp",
+      "fullName": "【アイの誓い】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "キネマ・リリックで夢見て",
+      "baseImage": "キネマ・リリックで夢見て 八宮めぐる.webp",
+      "awakenedImage": "キネマ・リリックで夢見て 八宮めぐる+.webp",
+      "fullName": "【キネマ・リリックで夢見て】八宮めぐる",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "シュカのまにまに",
+      "baseImage": "シュカのまにまに 八宮めぐる.webp",
+      "awakenedImage": "シュカのまにまに 八宮めぐる+.webp",
+      "fullName": "【シュカのまにまに】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "セツナn",
+      "baseImage": "セツナn  八宮めぐる.webp",
+      "awakenedImage": "セツナ n 八宮めぐる+.webp",
+      "fullName": "【セツナn】八宮めぐる",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "チエルアルコは流星の",
+      "baseImage": "チエルアルコは流星の 八宮めぐる.webp",
+      "awakenedImage": "チエルアルコは流星の 八宮めぐる+.webp",
+      "fullName": "【チエルアルコは流星の】八宮めぐる",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "ハロー・ワールド",
+      "baseImage": "ハロー・ワールド 八宮めぐる.webp",
+      "awakenedImage": "ハロー・ワールド 八宮めぐる+.webp",
+      "fullName": "【ハロー・ワールド】八宮めぐる",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "夏に恋するピチカート！",
+      "baseImage": "夏に恋するピチカート！ 八宮めぐる.webp",
+      "awakenedImage": "夏に恋するピチカート！ 八宮めぐる+.webp",
+      "fullName": "【夏に恋するピチカート！】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "小さな夜のトロイメライ",
+      "baseImage": "小さな夜のトロイメライ 八宮めぐる.webp",
+      "awakenedImage": "小さな夜のトロイメライ 八宮めぐる+.webp",
+      "fullName": "【小さな夜のトロイメライ】八宮めぐる",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "日々を紡ぐインヴェルノ",
+      "baseImage": "日々を紡ぐインヴェルノ 八宮めぐる.webp",
+      "awakenedImage": "日々を紡ぐインヴェルノ 八宮めぐる+.webp",
+      "fullName": "【日々を紡ぐインヴェルノ】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "八宮めぐる",
+      "themeName": "金色の元気いっぱいガール",
+      "baseImage": "金色の元気いっぱいガール 八宮めぐる.webp",
+      "awakenedImage": "金色の元気いっぱいガール 八宮めぐる+.webp",
+      "fullName": "【金色の元気いっぱいガール】八宮めぐる",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "interStellar-Stella",
+      "baseImage": "interStellar-Stella 櫻木真乃.webp",
+      "awakenedImage": "interStellar-Stella  櫻木真乃+.webp",
+      "fullName": "【interStellar-Stella】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "あなたと、いただきます",
+      "baseImage": "あなたと、いただきます 櫻木真乃.webp",
+      "awakenedImage": "あなたと、いただきます 櫻木真乃+.webp",
+      "fullName": "【あなたと、いただきます】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "きみと巡り行く",
+      "baseImage": "きみと巡り行く 櫻木真乃.webp",
+      "awakenedImage": "きみと巡り 行く 櫻木真乃+.webp",
+      "fullName": "【きみと巡り行く】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "ぐうぜんBOOKS",
+      "baseImage": "ぐうぜんBOOKS 櫻木真乃.webp",
+      "awakenedImage": "ぐうぜんBOOKS 櫻木真乃+.webp",
+      "fullName": "【ぐうぜんBOOKS】櫻木真乃",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "しじまに華ひととき",
+      "baseImage": "しじまに華ひととき 櫻木真乃.webp",
+      "awakenedImage": "しじまに華ひととき 櫻木真乃+.webp",
+      "fullName": "【しじまに華ひととき】櫻木真乃",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "はじけてスマイル",
+      "baseImage": "はじけてスマイル 櫻木真乃.webp",
+      "awakenedImage": "はじけてスマイル 櫻木真乃+.webp",
+      "fullName": "【はじけてスマイル】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "はるかなる",
+      "baseImage": "はるかなる 櫻木真乃.webp",
+      "awakenedImage": "はるかなる 櫻木真乃+.webp",
+      "fullName": "【はるかなる】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "ひとつ、 はたたく",
+      "baseImage": "ひとつ、 はたたく 櫻木真乃.webp",
+      "awakenedImage": "ひとつ、 はたたく 櫻木真乃+.webp",
+      "fullName": "【ひとつ、 はたたく】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "ほわっとスマイル",
+      "baseImage": "ほわっとスマイル 櫻木真乃.webp",
+      "awakenedImage": "ほわっとスマイル 櫻木真乃+.webp",
+      "fullName": "【ほわっとスマイル】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "ソラを跳ね",
+      "baseImage": "ソラを跳ね 櫻木真乃.webp",
+      "awakenedImage": "ソラを跳ね 櫻木真乃+.webp",
+      "fullName": "【ソラを跳ね】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "ナチュラルモード",
+      "baseImage": "ナチュラルモード 櫻木真乃.webp",
+      "awakenedImage": "ナチュラルモード 櫻木真乃+.webp",
+      "fullName": "【ナチュラルモード】櫻木真乃",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "ハ♡トフェルトゥギフト",
+      "baseImage": "ハ♡トフェルトゥギフト 櫻木真乃.webp",
+      "awakenedImage": "ハ♡トフェルトゥギフト 櫻木真乃+.webp",
+      "fullName": "【ハ♡トフェルトゥギフト】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "ピックアップ・ スプリング",
+      "baseImage": "ピックアップ・ スプリング 櫻木真乃.webp",
+      "awakenedImage": "ピックアップ・ スプリング 櫻木真乃+.webp",
+      "fullName": "【ピックアップ・ スプリング】櫻木真乃",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "一番星の魔法",
+      "baseImage": "一番星の魔法 櫻木真乃.webp",
+      "awakenedImage": "一番星の魔法 櫻木真乃+.webp",
+      "fullName": "【一番星の魔法】櫻木真乃",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "深染め、いろみぐさ",
+      "baseImage": "深染め、いろみぐさ 櫻木真乃.webp",
+      "awakenedImage": "深染め、いろみぐさ 櫻木真乃+.webp",
+      "fullName": "【深染め、いろみぐさ】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "私のハルモニア",
+      "baseImage": "私のハルモニア 櫻木真乃.webp",
+      "awakenedImage": "私のハルモニア 櫻木真乃+.webp",
+      "fullName": "【私のハルモニア】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "花結びゆくゆく",
+      "baseImage": "花結びゆくゆく 櫻木真乃.webp",
+      "awakenedImage": "花結びゆくゆく 櫻木真乃+.webp",
+      "fullName": "【花結びゆくゆく】櫻木真乃",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "櫻木真乃",
+      "themeName": "花風Smiley",
+      "baseImage": "花風Smiley 櫻木真乃.webp",
+      "awakenedImage": "花風Smiley 櫻木真乃+.webp",
+      "fullName": "【花風Smiley】櫻木真乃",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "The thing is",
+      "baseImage": "The thing is 風野灯織.webp",
+      "awakenedImage": "The thing is 風野灯織+.webp",
+      "fullName": "【The thing is】風野灯織",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "ひとりじゃない夜のこと",
+      "baseImage": "ひとりじゃない夜のこと  風野灯織.webp",
+      "awakenedImage": "ひとりじゃない夜のこと  風野灯織+.webp",
+      "fullName": "【ひとりじゃない夜のこと】風野灯織",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "インビジブルタイム",
+      "baseImage": "インビジブルタイム 風野灯織.webp",
+      "awakenedImage": "インビジブルタイム 風野灯織+.webp",
+      "fullName": "【インビジブルタイム】風野灯織",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "エバー・リメンバー・ネバー",
+      "baseImage": "エバー・リメンバー・ネバー 風野灯織.webp",
+      "awakenedImage": "エバー・リメンバー・ネバー 風野灯織+.webp",
+      "fullName": "【エバー・リメンバー・ネバー】風野灯織",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "キミと今旅立つ",
+      "baseImage": "キミと今旅立つ 風野灯織.webp",
+      "awakenedImage": "キミと今旅立つ 風野灯織+.webp",
+      "fullName": "【キミと今旅立つ】風野灯織",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "ベター・ザン・ベスト",
+      "baseImage": "ベター・ザン・ベスト 風野灯織.webp",
+      "awakenedImage": "ベター・ザン・ベスト 風野灯織+.webp",
+      "fullName": "【ベター・ザン・ベスト】風野灯織",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "マフラー直して、心は解けて",
+      "baseImage": "マフラー直して、心は解けて 風野灯織.webp",
+      "awakenedImage": "マフラー直して、心は解けて 風野灯織+.webp",
+      "fullName": "【マフラー直して、心は解けて】風野灯織",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "手作りの心遣い",
+      "baseImage": "手作りの心遣い 風野灯織.webp",
+      "awakenedImage": "手作りの心遣い 風野灯織+.webp",
+      "fullName": "【手作りの心遣い】風野灯織",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "洸",
+      "baseImage": "洸  風野灯織.webp",
+      "awakenedImage": "洸  風野灯織+.webp",
+      "fullName": "【洸】風野灯織",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "涼",
+      "baseImage": "涼 風野灯織.webp",
+      "awakenedImage": "涼 風野灯織+.webp",
+      "fullName": "【涼】風野灯織",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "清閑に息をひそめて",
+      "baseImage": "清閑に息をひそめて 風野灯織.webp",
+      "awakenedImage": "清閑に息をひそめて 風野灯織+.webp",
+      "fullName": "【清閑に息をひそめて】風野灯織",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "耿耿",
+      "baseImage": "耿耿 風野灯織.webp",
+      "awakenedImage": "耿耿 風野灯織+.webp",
+      "fullName": "【耿耿】風野灯織",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "落下予測地点",
+      "baseImage": "落下予測地点 風野灯織.webp",
+      "awakenedImage": "落下予測地点 風野灯織+.webp",
+      "fullName": "【落下予測地点】風野灯織",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "足りない隙間",
+      "baseImage": "足りない隙間  風野灯織.webp",
+      "awakenedImage": "足りない隙間  風野灯織+.webp",
+      "fullName": "【足りない隙間】風野灯織",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "風野灯織",
+      "themeName": "黒百合前で待ち合わせ",
+      "baseImage": "黒百合前で待ち合わせ 風野灯織.webp",
+      "awakenedImage": "黒百合前で待ち合わせ 風野灯織+.webp",
+      "fullName": "【黒百合前で待ち合わせ】風野灯織",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "Good-bye ラブレター",
+      "baseImage": "Good-bye ラブレター 三峰結華.webp",
+      "awakenedImage": "Good-bye ラブレター 三峰結華+.webp",
+      "fullName": "【Good-bye ラブレター】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "Hakoni□a",
+      "baseImage": "Hakoni□a 三峰結華.webp",
+      "awakenedImage": "Hakoni□a 三峰結華+.webp",
+      "fullName": "【Hakoni□a】三峰結華",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "kaleidoscope-pinball",
+      "baseImage": "kaleidoscope-pinball 三峰結華.webp",
+      "awakenedImage": "kaleidoscope-pinball 三峰結華+.webp",
+      "fullName": "【kaleidoscope-pinball】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "NOT≠EQUAL",
+      "baseImage": "NOT≠EQUAL 三峰結華.webp",
+      "awakenedImage": "NOT≠EQUAL 三峰結華+.webp",
+      "fullName": "【NOT≠EQUAL】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "♡コメディ",
+      "baseImage": "♡コメディ 三峰結華.webp",
+      "awakenedImage": "♡コメディ 三峰結華+.webp",
+      "fullName": "【♡コメディ】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "お試し／みつゴコロ",
+      "baseImage": "お試し／みつゴコロ 三峰結華.webp",
+      "awakenedImage": "お試し／みつゴコロ 三峰結華+.webp",
+      "fullName": "【お試し／みつゴコロ】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "お願い、ただの少女がいい",
+      "baseImage": "お願い、ただの少女がいい 三峰結華.webp",
+      "awakenedImage": "お願い、ただの少女がいい 三峰結華+.webp",
+      "fullName": "【お願い、ただの少女がいい】三峰結華",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "く　ら　く　ら",
+      "baseImage": "く　ら　く　ら 三峰結華.webp",
+      "awakenedImage": "く　ら　く　ら 三峰結華+.webp",
+      "fullName": "【く　ら　く　ら】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "それなら目をつぶりましょう",
+      "baseImage": "それなら目をつぶりましょう 三峰結華.webp",
+      "awakenedImage": "それなら目をつぶりましょう 三峰結華+.webp",
+      "fullName": "【それなら目をつぶりましょう】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "カラフルメタモルフォーゼ",
+      "baseImage": "カラフルメタモルフォーゼ 三峰結華.webp",
+      "awakenedImage": "カラフルメタモルフォーゼ 三峰結華+.webp",
+      "fullName": "【カラフルメタモルフォーゼ】三峰結華",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "ノー・ライフ",
+      "baseImage": "ノー・ライフ 三峰結華.webp",
+      "awakenedImage": "ノー・ライフ 三峰結華+.webp",
+      "fullName": "【ノー・ライフ】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "待ちぼうけ次回予告",
+      "baseImage": "待ちぼうけ次回予告 三峰結華.webp",
+      "awakenedImage": "待ちぼうけ次回予告 三峰結華+.webp",
+      "fullName": "【待ちぼうけ次回予告】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "眩いステージ",
+      "baseImage": "眩いステージ 三峰結華.webp",
+      "awakenedImage": "眩いステージ 三峰結華+.webp",
+      "fullName": "【眩いステージ】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "鏡界フィクションレイン",
+      "baseImage": "鏡界フィクションレイン 三峰結華.webp",
+      "awakenedImage": "鏡界フィクションレイン 三峰結華+.webp",
+      "fullName": "【鏡界フィクションレイン】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "雨に祝福",
+      "baseImage": "雨に祝福 三峰結華.webp",
+      "awakenedImage": "雨に祝福 三峰結華+.webp",
+      "fullName": "【雨に祝福】三峰結華",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "三峰結華",
+      "themeName": "雨色、上機嫌",
+      "baseImage": "雨色、上機嫌 三峰結華.webp",
+      "awakenedImage": "雨色、上機嫌 三峰結華+.webp",
+      "fullName": "【雨色、上機嫌】三峰結華",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "かぜかんむりのこどもたち",
+      "baseImage": "かぜかんむりのこどもたち 幽谷霧子.webp",
+      "awakenedImage": "かぜかんむりのこどもたち 幽谷霧子+.webp",
+      "fullName": "【かぜかんむりのこどもたち】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "伝・伝・心・音",
+      "baseImage": "伝・伝・心・音 幽谷霧子.webp",
+      "awakenedImage": "伝・伝・心・音 幽谷霧子+.webp",
+      "fullName": "【伝・伝・心・音】幽谷霧子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "包・帯・組・曲",
+      "baseImage": "包・帯・組・曲 幽谷霧子.webp",
+      "awakenedImage": "包・帯・組・曲 幽谷霧子+.webp",
+      "fullName": "【包・帯・組・曲】幽谷霧子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "唯・唯・寧・詠",
+      "baseImage": "唯・唯・寧・詠 幽谷霧子.webp",
+      "awakenedImage": "唯・唯・寧・詠 幽谷霧子+.webp",
+      "fullName": "【唯・唯・寧・詠】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "夕・音・鳴・鳴",
+      "baseImage": "夕・音・鳴・鳴 幽谷霧子.webp",
+      "awakenedImage": "夕・音・鳴・鳴 幽谷霧子+.webp",
+      "fullName": "【夕・音・鳴・鳴】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "天・天・白・布",
+      "baseImage": "天・天・白・布 幽谷霧子.webp",
+      "awakenedImage": "天・天・白・布 幽谷霧子+.webp",
+      "fullName": "【天・天・白・布】幽谷霧子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "海へと還る街",
+      "baseImage": "海へと還る街 幽谷霧子.webp",
+      "awakenedImage": "海へと還る街 幽谷霧子+.webp",
+      "fullName": "【海へと還る街】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "琴・禽・空・華",
+      "baseImage": "琴・禽・空・華 幽谷霧子.webp",
+      "awakenedImage": "琴・禽・空・華 幽谷霧子+.webp",
+      "fullName": "【琴・禽・空・華】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "白・架・祝・幻",
+      "baseImage": "白・架・祝・幻 幽谷霧子.webp",
+      "awakenedImage": "白・架・祝・幻 幽谷霧子+.webp",
+      "fullName": "【白・架・祝・幻】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "白・白・白・祈",
+      "baseImage": "白・白・白・祈 幽谷霧子.webp",
+      "awakenedImage": "白・白・白・祈 幽谷霧子+.webp",
+      "fullName": "【白・白・白・祈】幽谷霧子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "空・風・明・鳴",
+      "baseImage": "空・風・明・鳴 幽谷霧子.webp",
+      "awakenedImage": "空・風・明・鳴 幽谷霧子+.webp",
+      "fullName": "【空・風・明・鳴】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "窓・送・巡・歌",
+      "baseImage": "窓・送・巡・歌 幽谷霧子.webp",
+      "awakenedImage": "窓・送・巡・歌 幽谷霧子+.webp",
+      "fullName": "【窓・送・巡・歌】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "縷・縷・屡・来",
+      "baseImage": "縷・縷・屡・来 幽谷霧子.webp",
+      "awakenedImage": "縷・縷・屡・来 幽谷霧子+.webp",
+      "fullName": "【縷・縷・屡・来】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "菜・菜・輪・舞",
+      "baseImage": "菜・菜・輪・舞 幽谷霧子.webp",
+      "awakenedImage": "菜・菜・輪・舞 幽谷霧子+.webp",
+      "fullName": "【菜・菜・輪・舞】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "雨・雨・電・電",
+      "baseImage": "雨・雨・電・電 幽谷霧子.webp",
+      "awakenedImage": "雨・雨・電・電 幽谷霧子+.webp",
+      "fullName": "【雨・雨・電・電】幽谷霧子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "霧・音・燦・燦",
+      "baseImage": "霧・音・燦・燦 幽谷霧子.webp",
+      "awakenedImage": "霧・音・燦・燦 幽谷霧子+.webp",
+      "fullName": "【霧・音・燦・燦】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "幽谷霧子",
+      "themeName": "鱗・鱗・謹・賀",
+      "baseImage": "鱗・鱗・謹・賀 幽谷霧子.webp",
+      "awakenedImage": "鱗・鱗・謹・賀 幽谷霧子+.webp",
+      "fullName": "【鱗・鱗・謹・賀】幽谷霧子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "hurray for...",
+      "baseImage": "hurray for... 月岡恋鐘.webp",
+      "awakenedImage": "hurray for... 月岡恋鐘+.webp",
+      "fullName": "【hurray for...】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "あなたと、メモリアル",
+      "baseImage": "あなたと、メモリアル 月岡恋鐘.webp",
+      "awakenedImage": "あなたと、メモリアル 月岡恋鐘+.webp",
+      "fullName": "【あなたと、メモリアル】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "あなたと、月の満ちる頃",
+      "baseImage": "あなたと、月の満ちる頃 月岡恋鐘.webp",
+      "awakenedImage": "あなたと、月の満ちる頃 月岡恋鐘+.webp",
+      "fullName": "【あなたと、月の満ちる頃】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "いつか帰りたか場所",
+      "baseImage": "いつか帰りたか場所 月岡恋鐘.webp",
+      "awakenedImage": "いつか帰りたか場所 月岡恋鐘+.webp",
+      "fullName": "【いつか帰りたか場所】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "うちのリボンは恋結び",
+      "baseImage": "うちのリボンは恋結び 月岡恋鐘.webp",
+      "awakenedImage": "うちのリボンは恋結び 月岡恋鐘+.webp",
+      "fullName": "【うちのリボンは恋結び】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "は～と♡に火をつけて",
+      "baseImage": "は～と♡に火をつけて 月岡恋鐘.webp",
+      "awakenedImage": "は～と♡に火をつけて 月岡恋鐘+.webp",
+      "fullName": "【は～と♡に火をつけて】月岡恋鐘",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "ばってん長崎恋岬",
+      "baseImage": "ばってん長崎恋岬 月岡恋鐘.webp",
+      "awakenedImage": "ばってん長崎恋岬 月岡恋鐘+.webp",
+      "fullName": "【ばってん長崎恋岬】月岡恋鐘",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "ばりうまかブルース",
+      "baseImage": "ばりうまかブルース 月岡恋鐘.webp",
+      "awakenedImage": "ばりうまかブルース 月岡恋鐘+.webp",
+      "fullName": "【ばりうまかブルース】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "ふりそそぐもの",
+      "baseImage": "ふりそそぐもの 月岡恋鐘.webp",
+      "awakenedImage": "ふりそそぐもの 月岡恋鐘+.webp",
+      "fullName": "【ふりそそぐもの】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "よか匂いのする陽気やけん",
+      "baseImage": "よか匂いのする陽気やけん 月岡恋鐘.webp",
+      "awakenedImage": "よか匂いのする陽気やけん 月岡恋鐘+.webp",
+      "fullName": "【よか匂いのする陽気やけん】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "ビ～♡バップ海岸",
+      "baseImage": "ビ～♡バップ海岸 月岡恋鐘.webp",
+      "awakenedImage": "ビ～♡バップ海岸 月岡恋鐘+.webp",
+      "fullName": "【ビ～♡バップ海岸】月岡恋鐘",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "心の鐘が鳴っとるけん",
+      "baseImage": "心の鐘が鳴っとるけん 月岡恋鐘.webp",
+      "awakenedImage": "心の鐘が鳴っとるけん 月岡恋鐘+.webp",
+      "fullName": "【心の鐘が鳴っとるけん】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "月の浜辺で待っとって",
+      "baseImage": "月の浜辺で待っとって 月岡恋鐘.webp",
+      "awakenedImage": "月の浜辺で待っとって 月岡恋鐘+.webp",
+      "fullName": "【月の浜辺で待っとって】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "猫道カントリー",
+      "baseImage": "猫道カントリー 月岡恋鐘.webp",
+      "awakenedImage": "猫道カントリー 月岡恋鐘+.webp",
+      "fullName": "【猫道カントリー】月岡恋鐘",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "純雪エモーショナル",
+      "baseImage": "純雪エモーショナル 月岡恋鐘.webp",
+      "awakenedImage": "純雪エモーショナル 月岡恋鐘+.webp",
+      "fullName": "【純雪エモーショナル】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "雪、えとせとら",
+      "baseImage": "雪、えとせとら 月岡恋鐘.webp",
+      "awakenedImage": "雪、えとせとら 月岡恋鐘+.webp",
+      "fullName": "【雪、えとせとら】月岡恋鐘",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "月岡恋鐘",
+      "themeName": "風吹く丘にはよ来んね",
+      "baseImage": "風吹く丘にはよ来んね 月岡恋鐘.webp",
+      "awakenedImage": "風吹く丘にはよ来んね 月岡恋鐘+.webp",
+      "fullName": "【風吹く丘にはよ来んね】月岡恋鐘",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "FANCY 24g",
+      "baseImage": "FANCY 24g 田中摩美々.webp",
+      "awakenedImage": "FANCY 24g 田中摩美々+.webp",
+      "fullName": "【FANCY 24g】田中摩美々",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "Find M Trick",
+      "baseImage": "Find M Trick 田中摩美々.webp",
+      "awakenedImage": "Find M Trick 田中摩美々+.webp",
+      "fullName": "【Find M Trick】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "Have a bad day♥",
+      "baseImage": "Have a bad day♥ 田中摩美々.webp",
+      "awakenedImage": "Have a bad day♥ 田中摩美々+.webp",
+      "fullName": "【Have a bad day♥】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "irodori-corridor",
+      "baseImage": "irodori-corridor 田中摩美々.webp",
+      "awakenedImage": "irodori-corridor 田中摩美々+.webp",
+      "fullName": "【irodori-corridor】田中摩美々",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "PURPLE M",
+      "baseImage": "PURPLE M 田中摩美々.webp",
+      "awakenedImage": "PURPLE M 田中摩美々+.webp",
+      "fullName": "【PURPLE M】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "そのまみみ無気力につき",
+      "baseImage": "そのまみみ無気力につき 田中摩美々.webp",
+      "awakenedImage": "そのまみみ無気力につき 田中摩美々+.webp",
+      "fullName": "【そのまみみ無気力につき】田中摩美々",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "まといてホワイトフル",
+      "baseImage": "まといてホワイトフル 田中摩美々.webp",
+      "awakenedImage": "まといてホワイトフル 田中摩美々+.webp",
+      "fullName": "【まといてホワイトフル】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "まみみスイッチ",
+      "baseImage": "まみみスイッチ 田中摩美々.webp",
+      "awakenedImage": "まみみスイッチ 田中摩美々+.webp",
+      "fullName": "【まみみスイッチ】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "アバウト-ナイト-ライト",
+      "baseImage": "アバウト-ナイト-ライト 田中摩美々.webp",
+      "awakenedImage": "アバウト-ナイト-ライト 田中摩美々+.webp",
+      "fullName": "【アバウト-ナイト-ライト】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "トリッキーナイト",
+      "baseImage": "トリッキーナイト 田中摩美々.webp",
+      "awakenedImage": "トリッキーナイト 田中摩美々+.webp",
+      "fullName": "【トリッキーナイト】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "パープル・ミラージュ",
+      "baseImage": "パープル・ミラージュ 田中摩美々.webp",
+      "awakenedImage": "パープル・ミラージュ 田中摩美々+.webp",
+      "fullName": "【パープル・ミラージュ】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "フィドル・ファドル",
+      "baseImage": "フィドル・ファドル 田中摩美々.webp",
+      "awakenedImage": "フィドル・ファドル 田中摩美々+.webp",
+      "fullName": "【フィドル・ファドル】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "リバーシブル・トースト",
+      "baseImage": "リバーシブル・トースト 田中摩美々.webp",
+      "awakenedImage": "リバーシブル・トースト 田中摩美々+.webp",
+      "fullName": "【リバーシブル・トースト】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "夕つ方まみみチック",
+      "baseImage": "夕つ方まみみチック 田中摩美々.webp",
+      "awakenedImage": "夕つ方まみみチック 田中摩美々+.webp",
+      "fullName": "【夕つ方まみみチック】田中摩美々",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "摩的・アンチテーゼ",
+      "baseImage": "摩的・アンチテーゼ 田中摩美々.webp",
+      "awakenedImage": "摩的・アンチテーゼ 田中摩美々+.webp",
+      "fullName": "【摩的・アンチテーゼ】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "真・TRAVELER",
+      "baseImage": "真・TRAVELER 田中摩美々.webp",
+      "awakenedImage": "真・TRAVELER 田中摩美々+.webp",
+      "fullName": "【真・TRAVELER】田中摩美々",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "田中摩美々",
+      "themeName": "裏腹あまのじゃく",
+      "baseImage": "裏腹あまのじゃく 田中摩美々.webp",
+      "awakenedImage": "裏腹あまのじゃく 田中摩美々+.webp",
+      "fullName": "【裏腹あまのじゃく】田中摩美々",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "1／60・NaturalHeart",
+      "baseImage": "1／60・NaturalHeart 白瀬咲耶.webp",
+      "awakenedImage": "1／60・NaturalHeart 白瀬咲耶+.webp",
+      "fullName": "【1／60・NaturalHeart】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "いつかのアルファルドへ",
+      "baseImage": "いつかのアルファルドへ 白瀬咲耶.webp",
+      "awakenedImage": "いつかのアルファルドへ 白瀬咲耶+.webp",
+      "fullName": "【いつかのアルファルドへ】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "はらりひらり結ぶ",
+      "baseImage": "はらりひらり結ぶ 白瀬咲耶.webp",
+      "awakenedImage": "はらりひらり結ぶ 白瀬咲耶+.webp",
+      "fullName": "【はらりひらり結ぶ】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "ふれあい、おもいあい",
+      "baseImage": "ふれあい、おもいあい 白瀬咲耶.webp",
+      "awakenedImage": "ふれあい、おもいあい 白瀬咲耶+.webp",
+      "fullName": "【ふれあい、おもいあい】白瀬咲耶",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "乙女と交わすTrick",
+      "baseImage": "乙女と交わすTrick 白瀬咲耶.webp",
+      "awakenedImage": "乙女と交わすTrick 白瀬咲耶+.webp",
+      "fullName": "【乙女と交わすTrick】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "夜が来ても",
+      "baseImage": "夜が来ても 白瀬咲耶.webp",
+      "awakenedImage": "夜が来ても 白瀬咲耶+.webp",
+      "fullName": "【夜が来ても】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "幸福のリズム",
+      "baseImage": "幸福のリズム 白瀬咲耶.webp",
+      "awakenedImage": "幸福のリズム 白瀬咲耶+.webp",
+      "fullName": "【幸福のリズム】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "海と太陽のプロメッサ",
+      "baseImage": "海と太陽のプロメッサ 白瀬咲耶.webp",
+      "awakenedImage": "海と太陽のプロメッサ 白瀬咲耶+.webp",
+      "fullName": "【海と太陽のプロメッサ】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "渦と淵",
+      "baseImage": "渦と淵 白瀬咲耶.webp",
+      "awakenedImage": "渦と淵 白瀬咲耶+.webp",
+      "fullName": "【渦と淵】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "真紅一輪",
+      "baseImage": "真紅一輪 白瀬咲耶.webp",
+      "awakenedImage": "真紅一輪 白瀬咲耶+.webp",
+      "fullName": "【真紅一輪】白瀬咲耶",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "私をときめかせて",
+      "baseImage": "私をときめかせて 白瀬咲耶.webp",
+      "awakenedImage": "私をときめかせて 白瀬咲耶+.webp",
+      "fullName": "【私をときめかせて】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "秘めやかファンサービス",
+      "baseImage": "秘めやかファンサービス 白瀬咲耶.webp",
+      "awakenedImage": "秘めやかファンサービス 白瀬咲耶+.webp",
+      "fullName": "【秘めやかファンサービス】白瀬咲耶",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "紺碧のボーダーライン",
+      "baseImage": "紺碧のボーダーライン 白瀬咲耶.webp",
+      "awakenedImage": "紺碧のボーダーライン 白瀬咲耶+.webp",
+      "fullName": "【紺碧のボーダーライン】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "落ちる音がする",
+      "baseImage": "落ちる音がする 白瀬咲耶.webp",
+      "awakenedImage": "落ちる音がする 白瀬咲耶+.webp",
+      "fullName": "【落ちる音がする】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "記憶が降る街",
+      "baseImage": "記憶が降る街 白瀬咲耶.webp",
+      "awakenedImage": "記憶が降る街 白瀬咲耶+.webp",
+      "fullName": "【記憶が降る街】白瀬咲耶",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "白瀬咲耶",
+      "themeName": "雪染めロマンティカ",
+      "baseImage": "雪染めロマンティカ 白瀬咲耶.webp",
+      "awakenedImage": "雪染めロマンティカ 白瀬咲耶+.webp",
+      "fullName": "【雪染めロマンティカ】白瀬咲耶",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "市川雛菜",
+      "themeName": "change___",
+      "baseImage": "change___  市川雛菜.webp",
+      "awakenedImage": "change___  市川雛菜+.webp",
+      "fullName": "【change___】市川雛菜",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "市川雛菜",
+      "themeName": "d!scovery",
+      "baseImage": "d!scovery 市川雛菜.webp",
+      "awakenedImage": "d!scovery 市川雛菜+.webp",
+      "fullName": "【d!scovery】市川雛菜",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "市川雛菜",
+      "themeName": "HAPPY-!NG",
+      "baseImage": "HAPPY-!NG 市川雛菜.webp",
+      "awakenedImage": "HAPPY-!NG 市川雛菜+.webp",
+      "fullName": "【HAPPY-!NG】市川雛菜",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "市川雛菜",
+      "themeName": "Keep→it up♡",
+      "baseImage": "Keep→it up♡ 市川雛菜.webp",
+      "awakenedImage": "Keep→it up♡ 市川雛菜+.webp",
+      "fullName": "【Keep→it up♡】市川雛菜",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "市川雛菜",
+      "themeName": "Makeup♡Box",
+      "baseImage": "Makeup♡Box 市川雛菜.webp",
+      "awakenedImage": "Makeup♡Box 市川雛菜+.webp",
+      "fullName": "【Makeup♡Box】市川雛菜",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "市川雛菜",
+      "themeName": "TRICK☆☆☆",
+      "baseImage": "TRICK☆☆☆ 市川雛菜.webp",
+      "awakenedImage": "TRICK☆☆☆ 市川雛菜+.webp",
+      "fullName": "【TRICK☆☆☆】市川雛菜",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "市川雛菜",
+      "themeName": "UNCHARTED",
+      "baseImage": "UNCHARTED 市川雛菜.webp",
+      "awakenedImage": "UNCHARTED 市川雛菜+.webp",
+      "fullName": "【UNCHARTED】市川雛菜",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "市川雛菜",
+      "themeName": "♡LOG",
+      "baseImage": "♡LOG 市川雛菜.webp",
+      "awakenedImage": "♡LOG 市川雛菜+.webp",
+      "fullName": "【♡LOG】市川雛菜",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "市川雛菜",
+      "themeName": "♯SS",
+      "baseImage": "♯SS 市川雛菜.webp",
+      "awakenedImage": "♯SS 市川雛菜+.webp",
+      "fullName": "【♯SS】市川雛菜",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "樋口円香",
+      "themeName": "アマテラス",
+      "baseImage": "アマテラス 樋口円香.webp",
+      "awakenedImage": "アマテラス 樋口円香+.webp",
+      "fullName": "【アマテラス】樋口円香",
+      "rarity": "UR"
+    },
+    {
+      "characterName": "樋口円香",
+      "themeName": "カラカラカラ",
+      "baseImage": "カラカラカラ 樋口円香.webp",
+      "awakenedImage": "カラカラカラ 樋口円香+.webp",
+      "fullName": "【カラカラカラ】樋口円香",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "樋口円香",
+      "themeName": "キン・コン",
+      "baseImage": "キン・コン 樋口円香.webp",
+      "awakenedImage": "キン・コン 樋口円香+.webp",
+      "fullName": "【キン・コン】樋口円香",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "樋口円香",
+      "themeName": "ギンコ・ビローバ",
+      "baseImage": "ギンコ・ビローバ 樋口円香.webp",
+      "awakenedImage": "ギンコ・ビローバ 樋口円香+.webp",
+      "fullName": "【ギンコ・ビローバ】樋口円香",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "樋口円香",
+      "themeName": "ジャンク・ション",
+      "baseImage": "ジャンク・ション 樋口円香.webp",
+      "awakenedImage": "ジャンク・ション 樋口円香+.webp",
+      "fullName": "【ジャンク・ション】樋口円香",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "樋口円香",
+      "themeName": "バグ・ル",
+      "baseImage": "バグ・ル 樋口円香.webp",
+      "awakenedImage": "バグ・ル 樋口円香+.webp",
+      "fullName": "【バグ・ル】樋口円香",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "樋口円香",
+      "themeName": "ピトス・エルピス",
+      "baseImage": "ピトス・エルピス 樋口円香.webp",
+      "awakenedImage": "ピトス・エルピス 樋口円香+.webp",
+      "fullName": "【ピトス・エルピス】樋口円香",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "樋口円香",
+      "themeName": "フリークス・アリー",
+      "baseImage": "フリークス・アリー 樋口円香.webp",
+      "awakenedImage": "フリークス・アリー 樋口円香+.webp",
+      "fullName": "【フリークス・アリー】樋口円香",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "浅倉透",
+      "themeName": "10個、光",
+      "baseImage": "10個、光 浅倉透.webp",
+      "awakenedImage": "10個、光 浅倉透+.webp",
+      "fullName": "【10個、光】浅倉透",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "浅倉透",
+      "themeName": "あてもなく、風",
+      "baseImage": "あてもなく、風 浅倉透.webp",
+      "awakenedImage": "あてもなく、風 浅倉透+.webp",
+      "fullName": "【あてもなく、風】浅倉透",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "浅倉透",
+      "themeName": "おかえり、 ギター",
+      "baseImage": "おかえり、 ギター 浅倉透.webp",
+      "awakenedImage": "おかえり、 ギター 浅倉透+.webp",
+      "fullName": "【おかえり、 ギター】浅倉透",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "浅倉透",
+      "themeName": "まわるものについて",
+      "baseImage": "まわるものについて 浅倉透.webp",
+      "awakenedImage": "まわるものについて 浅倉透+.webp",
+      "fullName": "【まわるものについて】浅倉透",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "浅倉透",
+      "themeName": "テープエンドの行き先",
+      "baseImage": "テープエンドの行き先 浅倉透.webp",
+      "awakenedImage": "テープエンドの行き先 浅倉透+.webp",
+      "fullName": "【テープエンドの行き先】浅倉透",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "浅倉透",
+      "themeName": "ヘブンリーブルーをつかまえて",
+      "baseImage": "ヘブンリーブルーをつかまえて 浅倉透.webp",
+      "awakenedImage": "ヘブンリーブルーをつかまえて 浅倉透+.webp",
+      "fullName": "【ヘブンリーブルーをつかまえて】浅倉透",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "浅倉透",
+      "themeName": "国道沿いに、憶光年",
+      "baseImage": "国道沿いに、憶光年 浅倉透.webp",
+      "awakenedImage": "国道沿いに 、憶光年 浅倉透+.webp",
+      "fullName": "【国道沿いに、憶光年】浅倉透",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "浅倉透",
+      "themeName": "夜はなにいろ",
+      "baseImage": "夜はなにいろ 浅倉透.webp",
+      "awakenedImage": "夜はなにいろ 浅倉透+.webp",
+      "fullName": "【夜はなにいろ】浅倉透",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "浅倉透",
+      "themeName": "聞こえててよ、babe",
+      "baseImage": "聞こえててよ、babe  浅倉透.webp",
+      "awakenedImage": "聞こえててよ、babe  浅倉透+.webp",
+      "fullName": "【聞こえててよ、babe】浅倉透",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "浅倉透",
+      "themeName": "雪あたりの季節",
+      "baseImage": "雪あたりの季節 浅倉透.webp",
+      "awakenedImage": "雪あたりの季節 浅倉透+.webp",
+      "fullName": "【雪あたりの季節】浅倉透",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "福丸小糸",
+      "themeName": "あなた様へ紡ぐ",
+      "baseImage": "あなた様へ紡ぐ 福丸小糸.webp",
+      "awakenedImage": "あなた様へ紡ぐ 福丸小糸+.webp",
+      "fullName": "【あなた様へ紡ぐ】福丸小糸",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "福丸小糸",
+      "themeName": "おみくじ結びますか",
+      "baseImage": "おみくじ結びますか 福丸小糸.webp",
+      "awakenedImage": "おみくじ結びますか 福丸小糸+.webp",
+      "fullName": "【おみくじ結びますか】福丸小糸",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "福丸小糸",
+      "themeName": "なつ やすみ学校",
+      "baseImage": "なつ やすみ学校 福丸小糸.webp",
+      "awakenedImage": "なつや すみ学校 福丸小糸+.webp",
+      "fullName": "【なつ やすみ学校】福丸小糸",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "福丸小糸",
+      "themeName": "はれのひ喫茶店",
+      "baseImage": "はれのひ喫茶店 福丸小糸.webp",
+      "awakenedImage": "はれのひ喫茶店 福丸小糸+.webp",
+      "fullName": "【はれのひ喫茶店】福丸小糸",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "福丸小糸",
+      "themeName": "セピア色の孤独",
+      "baseImage": "セピア色の孤独 福丸小糸.webp",
+      "awakenedImage": "セピア色の孤独 福丸小糸+.webp",
+      "fullName": "【セピア色の孤独】福丸小糸",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "福丸小糸",
+      "themeName": "ポシェットの中には",
+      "baseImage": "ポシェットの中には 福丸小糸.webp",
+      "awakenedImage": "ポシェットの中には 福丸小糸+.webp",
+      "fullName": "【ポシェットの中には】福丸小糸",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "福丸小糸",
+      "themeName": "福はうち",
+      "baseImage": "福はうち 福丸小糸.webp",
+      "awakenedImage": "福はうち 福丸小糸+.webp",
+      "fullName": "【福はうち】福丸小糸",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "福丸小糸",
+      "themeName": "窓をあけて",
+      "baseImage": "窓をあけて 福丸小糸.webp",
+      "awakenedImage": "窓をあけて 福丸小糸+.webp",
+      "fullName": "【窓をあけて】福丸小糸",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "福丸小糸",
+      "themeName": "羽をやすめて",
+      "baseImage": "羽をやすめて 福丸小糸.webp",
+      "awakenedImage": "羽をやすめて 福丸小糸+.webp",
+      "fullName": "【羽をやすめて】福丸小糸",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "福丸小糸",
+      "themeName": "雲のかなたまで",
+      "baseImage": "雲のかなたまで 福丸小糸.webp",
+      "awakenedImage": "雲のかなたまで 福丸小糸+.webp",
+      "fullName": "【雲のかなたまで】福丸小糸",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "斑鳩ルカ",
+      "themeName": "NoNoNoBunny",
+      "baseImage": "NoNoNoBunny 斑鳩ルカ.webp",
+      "awakenedImage": "NoNoNoBunny 斑鳩ルカ+.webp",
+      "fullName": "【NoNoNoBunny】斑鳩ルカ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "七草にちか",
+      "themeName": "↓ろウTea",
+      "baseImage": "↓ろウTea 七草にちか.webp",
+      "awakenedImage": "↓ろウTea 七草にちか+.webp",
+      "fullName": "【↓ろウTea】七草にちか",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "七草にちか",
+      "themeName": "♡まっクろはムウサぎ♡",
+      "baseImage": "♡まっクろはムウサぎ♡ 七草にちか.webp",
+      "awakenedImage": "♡まっクろはムウサぎ♡ 七草にちか+.webp",
+      "fullName": "【♡まっクろはムウサぎ♡】七草にちか",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "七草にちか",
+      "themeName": "とキどき間氷期",
+      "baseImage": "とキどき間氷期 七草にちか.webp",
+      "awakenedImage": "とキどき間氷期 七草にちか+.webp",
+      "fullName": "【とキどき間氷期】七草にちか",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "七草にちか",
+      "themeName": "ふラiとぅTHE",
+      "baseImage": "ふラiとぅTHE 七草にちか.webp",
+      "awakenedImage": "ふラiとぅTHE 七草にちか+.webp",
+      "fullName": "【ふラiとぅTHE】七草にちか",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "七草にちか",
+      "themeName": "ヴぇりべりいかシたサマー",
+      "baseImage": "ヴぇりべりいかシたサマー 七草にちか.webp",
+      "awakenedImage": "ヴぇりべりいかシたサマー 七草にちか+.webp",
+      "fullName": "【ヴぇりべりいかシたサマー】七草にちか",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "七草にちか",
+      "themeName": "一億回めくらいの、その夏",
+      "baseImage": "一億回めくらいの、その夏 七草にちか.webp",
+      "awakenedImage": "一億回めくらいの、その夏 七草にちか+.webp",
+      "fullName": "【一億回めくらいの、その夏】七草にちか",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "七草にちか",
+      "themeName": "伝えテ niiid U",
+      "baseImage": "伝えテ niiid U 七草にちか.webp",
+      "awakenedImage": "伝えテ niiid U 七草にちか+.webp",
+      "fullName": "【伝えテ niiid U】七草にちか",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "七草にちか",
+      "themeName": "受けトル sun Q",
+      "baseImage": "受けトル sun Q 七草にちか.webp",
+      "awakenedImage": "受けトル sun Q 七草にちか+.webp",
+      "fullName": "【受けトル sun Q】七草にちか",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "七草にちか",
+      "themeName": "夜よこノ窓は塗らないデ",
+      "baseImage": "夜よこノ窓は塗らないデ 七草にちか.webp",
+      "awakenedImage": "夜よこノ窓は塗らないデ 七草にちか+.webp",
+      "fullName": "【夜よこノ窓は塗らないデ】七草にちか",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "七草にちか",
+      "themeName": "日々、想",
+      "baseImage": "日々、想 七草にちか.webp",
+      "awakenedImage": "日々、想 七草にちか+.webp",
+      "fullName": "【日々、想】七草にちか",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "七草にちか",
+      "themeName": "泣けよ洗濯機",
+      "baseImage": "泣けよ洗濯機 七草にちか.webp",
+      "awakenedImage": "泣けよ洗濯機 七草にちか+.webp",
+      "fullName": "【泣けよ洗濯機】七草にちか",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "緋田美琴",
+      "themeName": "CHILLY",
+      "baseImage": "CHILLY 緋田美琴.webp",
+      "awakenedImage": "CHILLY 緋田美琴+.webp",
+      "fullName": "【CHILLY】緋田美琴",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "緋田美琴",
+      "themeName": "CONTRAIL",
+      "baseImage": "CONTRAIL 緋田美琴.webp",
+      "awakenedImage": "CONTRAIL 緋田美琴+.webp",
+      "fullName": "【CONTRAIL】緋田美琴",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "緋田美琴",
+      "themeName": "DIVA",
+      "baseImage": "DIVA 緋田美琴.webp",
+      "awakenedImage": "DIVA 緋田美琴+.webp",
+      "fullName": "【DIVA】緋田美琴",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "緋田美琴",
+      "themeName": "MANNEQUIN",
+      "baseImage": "MANNEQUIN 緋田美琴.webp",
+      "awakenedImage": "MANNEQUIN 緋田美琴+.webp",
+      "fullName": "【MANNEQUIN】緋田美琴",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "緋田美琴",
+      "themeName": "POLARIS",
+      "baseImage": "POLARIS 緋田美琴.webp",
+      "awakenedImage": "POLARIS 緋田美琴+.webp",
+      "fullName": "【POLARIS】緋田美琴",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "緋田美琴",
+      "themeName": "ROUNDLY",
+      "baseImage": "ROUNDLY 緋田美琴.webp",
+      "awakenedImage": "ROUNDLY 緋田美琴+.webp",
+      "fullName": "【ROUNDLY】緋田美琴",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "緋田美琴",
+      "themeName": "SEASON",
+      "baseImage": "SEASON 緋田美琴.webp",
+      "awakenedImage": "SEASON 緋田美琴+.webp",
+      "fullName": "【SEASON】緋田美琴",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "緋田美琴",
+      "themeName": "SUGARLESS",
+      "baseImage": "SUGARLESS 緋田美琴.webp",
+      "awakenedImage": "SUGARLESS 緋田美琴+.webp",
+      "fullName": "【SUGARLESS】緋田美琴",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "緋田美琴",
+      "themeName": "This way",
+      "baseImage": "This way 緋田美琴.webp",
+      "awakenedImage": "This way 緋田美琴+.webp",
+      "fullName": "【This way】緋田美琴",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "緋田美琴",
+      "themeName": "YOU＆I",
+      "baseImage": "YOU＆I 緋田美琴.webp",
+      "awakenedImage": "YOU＆I 緋田美琴+.webp",
+      "fullName": "【YOU＆I】緋田美琴",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "あたし・マスト",
+      "baseImage": "あたし・マスト 和泉愛依.webp",
+      "awakenedImage": "あたし・マスト 和泉愛依+.webp",
+      "fullName": "【あたし・マスト】和泉愛依",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "あたし流・かっこいい",
+      "baseImage": "あたし流・かっこいい 和泉愛依.webp",
+      "awakenedImage": "あたし流・かっこいい 和泉愛依+.webp",
+      "fullName": "【あたし流・かっこいい】和泉愛依",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "うちと幸せ",
+      "baseImage": "うちと幸せ 和泉愛依.webp",
+      "awakenedImage": "うちと幸せ 和泉愛依+.webp",
+      "fullName": "【うちと幸せ】和泉愛依",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "ちょっとあげる～",
+      "baseImage": "ちょっとあげる～ 和泉愛依.webp",
+      "awakenedImage": "ちょっとあげる～ 和泉愛依+.webp",
+      "fullName": "【ちょっとあげる～】和泉愛依",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "ちょー早い！",
+      "baseImage": "ちょー早い！ 和泉愛依.webp",
+      "awakenedImage": "ちょー早い！ 和泉愛依+.webp",
+      "fullName": "【ちょー早い！】和泉愛依",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "てへっ♪",
+      "baseImage": "てへっ♪ 和泉愛依.webp",
+      "awakenedImage": "てへっ♪ 和泉愛依+.webp",
+      "fullName": "【てへっ♪】和泉愛依",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "シャッターチャンス！？",
+      "baseImage": "シャッターチャンス！？ 和泉愛依.webp",
+      "awakenedImage": "シャッターチャンス！？ 和泉愛依+.webp",
+      "fullName": "【シャッターチャンス！？】和泉愛依",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "メイ・ビー",
+      "baseImage": "メイ・ビー 和泉愛依.webp",
+      "awakenedImage": "メイ・ビー 和泉愛依+.webp",
+      "fullName": "【メイ・ビー】和泉愛依",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "今、できることを全て",
+      "baseImage": "今、できることを全て 和泉愛依.webp",
+      "awakenedImage": "今、できることを全て 和泉愛依+.webp",
+      "fullName": "【今、できることを全て】和泉愛依",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "今のうちは走らない",
+      "baseImage": "今のうちは走らない 和泉愛依.webp",
+      "awakenedImage": "今のうちは走らない 和泉愛依+.webp",
+      "fullName": "【今のうちは走らない】和泉愛依",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "何度転んだって",
+      "baseImage": "何度転んだって 和泉愛依.webp",
+      "awakenedImage": "何度転んだって 和泉愛依+.webp",
+      "fullName": "【何度転んだって】和泉愛依",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "気になる！？染めちゃう！？",
+      "baseImage": "気になる！？染めちゃう！？ 和泉愛依.webp",
+      "awakenedImage": "気になる！？染めちゃう！？ 和泉愛依+.webp",
+      "fullName": "【気になる！？染めちゃう！？】和泉愛依",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "見つかっちゃった♪",
+      "baseImage": "見つかっちゃった♪ 和泉愛依.webp",
+      "awakenedImage": "見つかっちゃった♪ 和泉愛依+.webp",
+      "fullName": "【見つかっちゃった♪】和泉愛依",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "Boiling Sky",
+      "baseImage": "Boiling Sky 芹沢あさひ.webp",
+      "awakenedImage": "Boiling Sky 芹沢あさひ+.webp",
+      "fullName": "【Boiling Sky】芹沢あさひ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "Housekeeping!",
+      "baseImage": "Housekeeping! 芹沢あさひ.webp",
+      "awakenedImage": "Housekeeping! 芹沢あさひ+.webp",
+      "fullName": "【Housekeeping!】芹沢あさひ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "Howling",
+      "baseImage": "Howling 芹沢あさひ.webp",
+      "awakenedImage": "Howling 芹沢あさひ+.webp",
+      "fullName": "【Howling】芹沢あさひ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "かしゃーんとがらがら",
+      "baseImage": "かしゃーんとがらがら 芹沢あさひ.webp",
+      "awakenedImage": "かしゃーんとがらがら 芹沢あさひ+.webp",
+      "fullName": "【かしゃーんとがらがら】芹沢あさひ",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "さよならカイト",
+      "baseImage": "さよならカイト 芹沢あさひ.webp",
+      "awakenedImage": "さよならカイト 芹沢あさひ+.webp",
+      "fullName": "【さよならカイト】芹沢あさひ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "ちぐはぐ姫",
+      "baseImage": "ちぐはぐ姫 芹沢あさひ.webp",
+      "awakenedImage": "ちぐはぐ姫 芹沢あさひ+.webp",
+      "fullName": "【ちぐはぐ姫】芹沢あさひ",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "はり・はり",
+      "baseImage": "はり・はり 芹沢あさひ.webp",
+      "awakenedImage": "はり・はり 芹沢あさひ+.webp",
+      "fullName": "【はり・はり】芹沢あさひ",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "ジャンプ！スタッグ！！！",
+      "baseImage": "ジャンプ！スタッグ！！！ 芹沢あさひ.webp",
+      "awakenedImage": "ジャンプ！スタッグ！！！ 芹沢あさひ+.webp",
+      "fullName": "【ジャンプ！スタッグ！！！】芹沢あさひ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "ムーンライト・ガーデン",
+      "baseImage": "ムーンライト・ガーデン 芹沢あさひ.webp",
+      "awakenedImage": "ムーンライト・ガーデン 芹沢あさひ+.webp",
+      "fullName": "【ムーンライト・ガーデン】芹沢あさひ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "不機嫌なテーマパーク",
+      "baseImage": "不機嫌なテーマパーク 芹沢あさひ.webp",
+      "awakenedImage": "不機嫌なテーマパーク 芹沢あさひ+.webp",
+      "fullName": "【不機嫌なテーマパーク】芹沢あさひ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "何故、ベルは鳴る",
+      "baseImage": "何故、ベルは鳴る 芹沢あさひ.webp",
+      "awakenedImage": "何故、ベルは鳴る 芹沢あさひ+.webp",
+      "fullName": "【何故、ベルは鳴る】芹沢あさひ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "光は光へ",
+      "baseImage": "光は光へ 芹沢あさひ.webp",
+      "awakenedImage": "光は光へ 芹沢あさひ+.webp",
+      "fullName": "【光は光へ】芹沢あさひ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "空と青とアイツ",
+      "baseImage": "空と青とアイツ 芹沢あさひ.webp",
+      "awakenedImage": "空と青とアイツ 芹沢あさひ+.webp",
+      "fullName": "【空と青とアイツ】芹沢あさひ",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "芹沢あさひ",
+      "themeName": "黄葉の冠",
+      "baseImage": "黄葉の冠 芹沢あさひ.webp",
+      "awakenedImage": "黄葉の冠 芹沢あさひ+.webp",
+      "fullName": "【黄葉の冠】芹沢あさひ",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "ONSTAGE？",
+      "baseImage": "ONSTAGE？ 黛冬優子.webp",
+      "awakenedImage": "ONSTAGE？ 黛冬優子+.webp",
+      "fullName": "【ONSTAGE？】黛冬優子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "starring F",
+      "baseImage": "starring F 黛冬優子.webp",
+      "awakenedImage": "starring F 黛冬優子+.webp",
+      "fullName": "【starring F】黛冬優子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "はるさき可憐花",
+      "baseImage": "はるさき可憐花 黛冬優子.webp",
+      "awakenedImage": "はるさき可憐花 黛冬優子+.webp",
+      "fullName": "【はるさき可憐花】黛冬優子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "アンコンシャス35→80",
+      "baseImage": "アンコンシャス35→80 黛冬優子.webp",
+      "awakenedImage": "アンコンシャス35→80 黛冬優子+.webp",
+      "fullName": "【アンコンシャス35→80】黛冬優子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "アンシーン・ダブルキャスト",
+      "baseImage": "アンシーン・ダブルキャスト 黛冬優子.webp",
+      "awakenedImage": "アンシーン・ダブルキャスト 黛冬優子+.webp",
+      "fullName": "【アンシーン・ダブルキャスト】黛冬優子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "ア・冬優子イズム",
+      "baseImage": "ア・冬優子イズム 黛冬優子.webp",
+      "awakenedImage": "ア・冬優子イズム 黛冬優子+.webp",
+      "fullName": "【ア・冬優子イズム】黛冬優子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "オ♡フ♡レ♡コ",
+      "baseImage": "オ♡フ♡レ♡コ 黛冬優子.webp",
+      "awakenedImage": "オ♡フ♡レ♡コ 黛冬優子+.webp",
+      "fullName": "【オ♡フ♡レ♡コ】黛冬優子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "ノンセンス・プロンプ",
+      "baseImage": "ノンセンス・プロンプ 黛冬優子.webp",
+      "awakenedImage": "ノンセンス・プロンプ 黛冬優子+.webp",
+      "fullName": "【ノンセンス・プロンプ】黛冬優子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "三文ノワール",
+      "baseImage": "三文ノワール 黛冬優子.webp",
+      "awakenedImage": "三文ノワール 黛冬優子+.webp",
+      "fullName": "【三文ノワール】黛冬優子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "名モナキ夜ノ標ニ",
+      "baseImage": "名モナキ夜ノ標ニ 黛冬優子.webp",
+      "awakenedImage": "名モナキ夜ノ標ニ 黛冬優子+.webp",
+      "fullName": "【名モナキ夜ノ標ニ】黛冬優子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "幕間、沸々と高温",
+      "baseImage": "幕間、沸々と高温 黛冬優子.webp",
+      "awakenedImage": "幕間、沸々と高温 黛冬優子+.webp",
+      "fullName": "【幕間、沸々と高温】黛冬優子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "水×天カイヤナイト",
+      "baseImage": "水×天カイヤナイト 黛冬優子.webp",
+      "awakenedImage": "水×天カイヤナイト 黛冬優子+.webp",
+      "fullName": "【水×天カイヤナイト】黛冬優子",
+      "rarity": "SR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "紅茶夢現",
+      "baseImage": "紅茶夢現 黛冬優子.webp",
+      "awakenedImage": "紅茶夢現 黛冬優子+.webp",
+      "fullName": "【紅茶夢現】黛冬優子",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "黛冬優子",
+      "themeName": "誘爆ハートビート",
+      "baseImage": "誘爆ハートビート 黛冬優子.webp",
+      "awakenedImage": "誘爆ハートビート 黛冬優子+.webp",
+      "fullName": "【誘爆ハートビート】黛冬優子",
+      "rarity": "UR"
+    },
+    {
+      "characterName": "有栖川夏葉",
+      "themeName": "summer break",
+      "baseImage": "summer break 有栖川夏葉.webp",
+      "awakenedImage": "summer break 有栖川夏葉+.webp",
+      "fullName": "【summer break】有栖川夏葉",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "和泉愛依",
+      "themeName": "心安らげる場所",
+      "baseImage": "心安らげる場所 和泉愛依.webp",
+      "awakenedImage": "心安らげる場所 和泉愛依+.webp",
+      "fullName": "【心安らげる場所】和泉愛依",
+      "rarity": "SSR"
+    },
+    {
+      "characterName": "杜野凛世",
+      "themeName": "絵空靴",
+      "baseImage": "絵空靴 杜野凛世.webp",
+      "awakenedImage": "絵空靴 杜野凛世+.webp",
+      "fullName": "【絵空靴】杜野凛世",
+      "rarity": "UR"
+    },
+    {
+      "fullName": "【つづく、】浅倉透",
+      "themeName": "つづく、",
+      "characterName": "浅倉透",
+      "baseImage": "つづく、浅倉透.webp",
+      "awakenedImage": "つづく、浅倉透+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【てのひらの答え】福丸小糸",
+      "themeName": "てのひらの答え",
+      "characterName": "福丸小糸",
+      "baseImage": "てのひらの答え 福丸小糸 .webp",
+      "awakenedImage": "ての ひらの答え 福丸小糸+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【淡雪の戯れ】風野灯織",
+      "themeName": "淡雪の戯れ",
+      "characterName": "風野灯織",
+      "baseImage": "淡雪の戯れ  風野灯織 .webp",
+      "awakenedImage": "淡雪の戯れ 風野灯織+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【柔らかな微笑み】風野灯織",
+      "themeName": "柔らかな微笑み",
+      "characterName": "風野灯織",
+      "baseImage": "柔らかな微笑み 風野灯織.webp",
+      "awakenedImage": "柔らかな微笑み 風野灯織+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【伸ばす手に乗せるのは】風野灯織",
+      "themeName": "伸ばす手に乗せるのは",
+      "characterName": "風野灯織",
+      "baseImage": "伸ばす手に乗せるのは 風野灯織.webp",
+      "awakenedImage": "伸ばす手に乗せるのは 風野灯織+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【途方もない午後】浅倉透",
+      "themeName": "途方もない午後",
+      "characterName": "浅倉透",
+      "baseImage": "途方もない午後 浅倉透.webp",
+      "awakenedImage": "途方もない午後 浅倉透+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【オイサラバエル】樋口円香",
+      "themeName": "オイサラバエル",
+      "characterName": "樋口円香",
+      "baseImage": "オイサラバエル 樋口円香.webp",
+      "awakenedImage": "オイサラバエル 樋口円香+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【Merry】樋口円香",
+      "themeName": "Merry",
+      "characterName": "樋口円香",
+      "baseImage": "Merry 樋口円香.webp",
+      "awakenedImage": "Merry 樋口円香+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【ダウト】樋口円香",
+      "themeName": "ダウト",
+      "characterName": "樋口円香",
+      "baseImage": "ダウト 樋口円香.webp",
+      "awakenedImage": "ダウト 樋口円香+.webp",
+      "rarity": "SR"
+    },
+    {
+      "fullName": "【カラメル】樋口円香",
+      "themeName": "カラメル",
+      "characterName": "樋口円香",
+      "baseImage": "カラメル 樋口円香.webp",
+      "awakenedImage": "カラメル 樋口円香+.webp",
+      "rarity": "SR"
+    },
+    {
+      "fullName": "【S!GNATURE】市川雛菜",
+      "themeName": "S!GNATURE",
+      "characterName": "市川雛菜",
+      "baseImage": "S!GNATURE 市川雛菜.webp",
+      "awakenedImage": "S!GNATURE 市川雛菜+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【DE-S!GN】市川雛菜",
+      "themeName": "DE-S!GN",
+      "characterName": "市川雛菜",
+      "baseImage": "DE-S!GN 市川雛菜.webp",
+      "awakenedImage": "DE-S!GN 市川雛菜+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【multi-angle】黛冬優子",
+      "themeName": "multi-angle",
+      "characterName": "黛冬優子",
+      "baseImage": "multi-angle 黛冬優子 .webp",
+      "awakenedImage": "multi-angle 黛冬優子+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【秋空ばくちずさんで】月岡恋鐘",
+      "themeName": "秋空ばくちずさんで",
+      "characterName": "月岡恋鐘",
+      "baseImage": "秋空ばくちずさんで 月岡恋鐘.webp",
+      "awakenedImage": "秋空ばくちずさんで 月岡恋鐘+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【Anti-Gravity】芹沢あさひ",
+      "themeName": "Anti-Gravity",
+      "characterName": "芹沢あさひ",
+      "baseImage": "Anti-Gravity 芹沢あさひ.webp",
+      "awakenedImage": "Anti-Gravity 芹沢あさひ+.webp",
+      "rarity": "SSR"
+    },
+    {
+      "fullName": "【雪空 セパレート】大崎甘奈",
+      "themeName": "雪空 セパレート",
+      "characterName": "大崎甘奈",
+      "baseImage": "雪空 セパレート 大崎甘奈.webp",
+      "awakenedImage": "雪空 セパレート 大崎甘奈+.webp",
+      "rarity": "SSR"
+    }
+  ]
+}
