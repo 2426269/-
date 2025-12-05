@@ -27,3 +27,6 @@ Thumbs.db
 
 # 临时文件
 nul
+
+# tavern_helper_template 是独立仓库
+tavern_helper_template/
